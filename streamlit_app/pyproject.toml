@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "eeg-streamlit-dashboard"
+version = "0.1.0"
+description = "Dashboard with EEG visualisations"
+authors = ["Daria Meshcherina"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10"
+streamlit = "^1.41.1"
+pandas = "^2.2.3"
+numpy = "^2.2.2"
+plotly = "^5.24.1"
+scipy = "^1.15.1"
+scikit-learn = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
