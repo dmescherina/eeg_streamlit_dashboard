@@ -7,8 +7,7 @@ import config
 # Set Streamlit page layout to wide
 st.set_page_config(page_title="Fixed Order SHAP Heatmap", layout="wide")
 
-# Define fixed orders
-# Order frequencies from lowest to highest band
+# Define fixed orders and labels
 FREQUENCY_ORDER = ['delta', 'theta', 'alpha', 'beta', 'lower gamma']
 FREQUENCY_RANGES = {
     'delta': '1-4 Hz',
@@ -17,13 +16,15 @@ FREQUENCY_RANGES = {
     'beta': '12-30 Hz',
     'lower gamma': '30-48 Hz'
 }
+
 TIME_PERIOD_ORDER = ['(-4, 0)', '(0, 5)', '(5, 10)']
 TIME_PERIOD_LABELS = {
     '(-4, 0)': 'Pre-stimulus',
     '(0, 5)': 'Early',
     '(5, 10)': 'Late'
 }
-CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']  # Paired by hemisphere (L/R) and front-to-back
+
+CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']
 CLUSTER_LABELS = {
     'CL1': 'Left Frontal',
     'CL4': 'Right Frontal',
@@ -35,10 +36,7 @@ CLUSTER_LABELS = {
 
 @st.cache_data
 def load_data(file_path):
-    df = pd.read_csv(file_path)
-    # Rename columns to match expected format
-    df.columns = [col.strip() for col in df.columns]  # Remove any whitespace
-    return df
+    return pd.read_csv(file_path)
 
 # UI Elements
 st.title("SHAP Values Heatmap")
@@ -49,7 +47,6 @@ data_source = st.radio(
     index=0
 )
 
-# Set file path and aggregation method based on selection
 if data_source == "Averaged SHAP Values":
     file_path = config.DATA_FILE_SHAP_MEAN
     aggregation_method = "mean"
@@ -57,28 +54,24 @@ else:
     file_path = config.DATA_FILE_SHAP_SUM
     aggregation_method = "sum"
 
-# Load the selected dataset
 df = load_data(file_path)
-
-# Debug print original columns
-#st.write("Original columns:", df.columns.tolist())
 
 # Sidebar Filters
 st.sidebar.header("Filters")
 selected_clusters = st.sidebar.multiselect(
     "Select Clusters",
-    options=df['Cluster'].unique(),
-    default=df['Cluster'].unique()
+    options=CLUSTER_ORDER,
+    default=CLUSTER_ORDER
 )
 selected_time_periods = st.sidebar.multiselect(
     "Select Time Periods",
-    options=df['Time Period'].unique(),
-    default=df['Time Period'].unique()
+    options=TIME_PERIOD_ORDER,
+    default=TIME_PERIOD_ORDER
 )
 selected_frequencies = st.sidebar.multiselect(
     "Select Frequencies",
-    options=df['Frequency'].unique(),
-    default=df['Frequency'].unique()
+    options=FREQUENCY_ORDER,
+    default=FREQUENCY_ORDER
 )
 selected_stimuli = st.sidebar.multiselect(
     "Select Stimulus",
@@ -91,7 +84,7 @@ selected_scores = st.sidebar.multiselect(
     default=df['TargetScore'].unique()
 )
 
-# Filter the DataFrame based on selections
+# Filter the DataFrame
 filtered_df = df[
     (df['Cluster'].isin(selected_clusters)) &
     (df['Time Period'].isin(selected_time_periods)) &
@@ -117,8 +110,22 @@ filtered_df['Cluster'] = pd.Categorical(
     ordered=True
 )
 
-# Ensure proper data types
+# Ensure proper data types and create pivot table
 filtered_df['SHAP_value'] = pd.to_numeric(filtered_df['SHAP_value'], errors='coerce')
+pivot_df = filtered_df.pivot_table(
+    index=["Time Period", "Frequency"],
+    columns="Cluster",
+    values="SHAP_value",
+    aggfunc=aggregation_method,
+    fill_value=0
+)
+
+# Reorder with our fixed ordering
+pivot_df = pivot_df.reindex(
+    index=pd.MultiIndex.from_product([TIME_PERIOD_ORDER, FREQUENCY_ORDER]),
+    columns=CLUSTER_ORDER,
+    fill_value=0
+)
 
 # Prepare data for heatmap
 heatmap_matrix = pivot_df.values
@@ -172,7 +179,7 @@ time_period_legend = [
         y=[None],
         mode="markers",
         marker=dict(size=10, color=color),
-        name=time,
+        name=TIME_PERIOD_LABELS[time],
         showlegend=True
     )
     for time, color in time_colors.items()
