@@ -81,10 +81,20 @@ filtered_df = df[
 
 # Debug prints
 st.write("Filtered DataFrame Shape:", filtered_df.shape)
-st.write("Unique values in filtered data:")
-st.write("Time Periods:", filtered_df['Time Period'].unique())
-st.write("Frequencies:", filtered_df['Frequency'].unique())
-st.write("Clusters:", filtered_df['Cluster'].unique())
+st.write("Sample of filtered data:", filtered_df.head())
+st.write("\nUnique values in each column:")
+st.write("Time Periods:", sorted(filtered_df['Time Period'].unique()))
+st.write("Frequencies:", sorted(filtered_df['Frequency'].unique()))
+st.write("Clusters:", sorted(filtered_df['Cluster'].unique()))
+
+# Check if our expected categories match the data
+st.write("\nChecking category matches:")
+st.write("Time Periods in data match expected:", 
+         all(tp in TIME_PERIOD_ORDER for tp in filtered_df['Time Period'].unique()))
+st.write("Frequencies in data match expected:", 
+         all(f in FREQUENCY_ORDER for f in filtered_df['Frequency'].unique()))
+st.write("Clusters in data match expected:", 
+         all(c in CLUSTER_ORDER for c in filtered_df['Cluster'].unique()))
 
 # Create categories with fixed ordering
 filtered_df['Time Period'] = pd.Categorical(
@@ -103,14 +113,31 @@ filtered_df['Cluster'] = pd.Categorical(
     ordered=True
 )
 
-# Create pivot table
-pivot_df = filtered_df.pivot_table(
-    index=["Time Period", "Frequency"],
-    columns="Cluster",
-    values="SHAP_value",
-    aggfunc=aggregation_method,
-    fill_value=0
-).sort_index()
+# Ensure proper data types
+filtered_df['SHAP_value'] = pd.to_numeric(filtered_df['SHAP_value'], errors='coerce')
+
+# Create pivot table without categorical conversion first
+st.write("\nAttempting pivot without categories...")
+try:
+    pivot_df = filtered_df.pivot_table(
+        index=["Time Period", "Frequency"],
+        columns="Cluster",
+        values="SHAP_value",
+        aggfunc=aggregation_method,
+        fill_value=0
+    )
+    st.write("Basic pivot successful. Shape:", pivot_df.shape)
+    st.write("Pivot index:", pivot_df.index.tolist()[:5])
+    
+    # Now try to sort with our ordering
+    pivot_df = pivot_df.reindex(
+        index=pd.MultiIndex.from_product([TIME_PERIOD_ORDER, FREQUENCY_ORDER]),
+        columns=CLUSTER_ORDER,
+        fill_value=0
+    )
+except Exception as e:
+    st.write("Pivot error:", str(e))
+    st.write("Data types:", filtered_df.dtypes)
 
 # Debug print pivot table
 st.write("Pivot table shape:", pivot_df.shape)
