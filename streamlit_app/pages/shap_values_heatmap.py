@@ -8,9 +8,30 @@ import config
 st.set_page_config(page_title="Fixed Order SHAP Heatmap", layout="wide")
 
 # Define fixed orders
+# Order frequencies from lowest to highest band
 FREQUENCY_ORDER = ['delta', 'theta', 'alpha', 'beta', 'lower gamma']
-TIME_PERIOD_ORDER = ['pre-stimulus', 'early', 'late']
-CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']
+FREQUENCY_RANGES = {
+    'delta': '1-4 Hz',
+    'theta': '4-8 Hz',
+    'alpha': '8-12 Hz',
+    'beta': '12-30 Hz',
+    'lower gamma': '30-48 Hz'
+}
+TIME_PERIOD_ORDER = ['(-4, 0)', '(0, 5)', '(5, 10)']
+TIME_PERIOD_LABELS = {
+    '(-4, 0)': 'Pre-stimulus',
+    '(0, 5)': 'Early',
+    '(5, 10)': 'Late'
+}
+CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']  # Paired by hemisphere (L/R) and front-to-back
+CLUSTER_LABELS = {
+    'CL1': 'Left Frontal',
+    'CL4': 'Right Frontal',
+    'CL2': 'Left Central',
+    'CL5': 'Right Central',
+    'CL3': 'Left Posterior',
+    'CL6': 'Right Posterior'
+}
 
 @st.cache_data
 def load_data(file_path):
@@ -145,14 +166,14 @@ st.write("Pivot table head:", pivot_df.head())
 
 # Prepare data for heatmap
 heatmap_matrix = pivot_df.values
-row_labels = [f"{time}, {freq}" for time, freq in pivot_df.index]
+row_labels = [f"{TIME_PERIOD_LABELS[time]}, {freq} ({FREQUENCY_RANGES[freq]})" for time, freq in pivot_df.index]
 col_labels = pivot_df.columns.tolist()
 
 # Create color scheme for time periods
 time_colors = {
-    'pre-stimulus': 'rgb(70, 130, 180)',   # Steel Blue
-    'early': 'rgb(60, 179, 113)',          # Medium Sea Green
-    'late': 'rgb(238, 130, 238)'           # Violet
+    '(-4, 0)': 'rgb(70, 130, 180)',   # Steel Blue
+    '(0, 5)': 'rgb(60, 179, 113)',    # Medium Sea Green
+    '(5, 10)': 'rgb(238, 130, 238)'   # Violet
 }
 
 # Get time period for each row
@@ -217,11 +238,7 @@ fig.update_layout(
         tickfont=dict(size=12, color='white'),
         gridcolor='#444444',
         showgrid=True,
-        ticktext=[
-            "Left Frontal (CL1)", "Right Frontal (CL4)",
-            "Left Central (CL2)", "Right Central (CL5)",
-            "Left Posterior (CL3)", "Right Posterior (CL6)"
-        ],
+        ticktext=[f"{CLUSTER_LABELS[cl]} ({cl})" for cl in CLUSTER_ORDER],
         tickvals=col_labels
     ),
     yaxis=dict(
