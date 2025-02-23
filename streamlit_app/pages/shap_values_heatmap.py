@@ -191,14 +191,14 @@ fig.update_layout(
     title=dict(
         text="SHAP Values Distribution Across Brain Regions",
         x=0.5,
-        font=dict(size=20, color='white')
+        font=dict(size=20, color='black')
     ),
-    paper_bgcolor='black',
-    plot_bgcolor='black',
+    paper_bgcolor='white',
+    plot_bgcolor='white',
     xaxis=dict(
         title="Clusters (Left → Right, Front → Back)",
-        title_font=dict(size=16, color='white'),
-        tickfont=dict(size=12, color='white'),
+        title_font=dict(size=16, color='black'),
+        tickfont=dict(size=12, color='black'),
         gridcolor='#444444',
         showgrid=True,
         ticktext=[f"{CLUSTER_LABELS[cl]} ({cl})" for cl in CLUSTER_ORDER],
@@ -206,8 +206,8 @@ fig.update_layout(
     ),
     yaxis=dict(
         title="Time Period, Frequency",
-        title_font=dict(size=16, color='white'),
-        tickfont=dict(size=12, color='white'),
+        title_font=dict(size=16, color='black'),
+        tickfont=dict(size=12, color='black'),
         gridcolor='#444444',
         showgrid=True
     ),
@@ -216,8 +216,8 @@ fig.update_layout(
     width=1000,
     legend=dict(
         title="Time Period",
-        title_font=dict(color='white'),
-        font=dict(color='white'),
+        title_font=dict(color='black'),
+        font=dict(color='black'),
         orientation="h",
         y=-0.2,
         x=0.5,
