@@ -222,7 +222,7 @@ fig.update_layout(
         y=-0.2,
         x=0.5,
         xanchor="center",
-        bgcolor='rgba(0,0,0,0.5)'
+        bgcolor='white'
     )
 )
 
