@@ -10,12 +10,14 @@ st.set_page_config(page_title="Fixed Order SHAP Heatmap", layout="wide")
 # Define fixed orders
 FREQUENCY_ORDER = ['delta', 'theta', 'alpha', 'beta', 'lower gamma']
 TIME_PERIOD_ORDER = ['pre-stimulus', 'early', 'late']
-CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']  # Ordered by position (frontal->back) and hemisphere pairs
+CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']
 
-# Cache data loading
 @st.cache_data
 def load_data(file_path):
-    return pd.read_csv(file_path)
+    df = pd.read_csv(file_path)
+    # Rename columns to match expected format
+    df.columns = [col.strip() for col in df.columns]  # Remove any whitespace
+    return df
 
 # UI Elements
 st.title("SHAP Values Heatmap")
@@ -37,22 +39,25 @@ else:
 # Load the selected dataset
 df = load_data(file_path)
 
+# Debug print original columns
+st.write("Original columns:", df.columns.tolist())
+
 # Sidebar Filters
 st.sidebar.header("Filters")
 selected_clusters = st.sidebar.multiselect(
     "Select Clusters",
-    options=CLUSTER_ORDER,
-    default=CLUSTER_ORDER
+    options=df['Cluster'].unique(),
+    default=df['Cluster'].unique()
 )
 selected_time_periods = st.sidebar.multiselect(
     "Select Time Periods",
-    options=TIME_PERIOD_ORDER,
-    default=TIME_PERIOD_ORDER
+    options=df['Time Period'].unique(),
+    default=df['Time Period'].unique()
 )
 selected_frequencies = st.sidebar.multiselect(
     "Select Frequencies",
-    options=FREQUENCY_ORDER,
-    default=FREQUENCY_ORDER
+    options=df['Frequency'].unique(),
+    default=df['Frequency'].unique()
 )
 selected_stimuli = st.sidebar.multiselect(
     "Select Stimulus",
@@ -74,8 +79,14 @@ filtered_df = df[
     (df['TargetScore'].isin(selected_scores))
 ]
 
-# Create a pivot table with fixed ordering
-# First, create categorical types with ordered categories
+# Debug prints
+st.write("Filtered DataFrame Shape:", filtered_df.shape)
+st.write("Unique values in filtered data:")
+st.write("Time Periods:", filtered_df['Time Period'].unique())
+st.write("Frequencies:", filtered_df['Frequency'].unique())
+st.write("Clusters:", filtered_df['Cluster'].unique())
+
+# Create categories with fixed ordering
 filtered_df['Time Period'] = pd.Categorical(
     filtered_df['Time Period'],
     categories=TIME_PERIOD_ORDER,
@@ -92,13 +103,18 @@ filtered_df['Cluster'] = pd.Categorical(
     ordered=True
 )
 
-# Create pivot table with fixed ordering
+# Create pivot table
 pivot_df = filtered_df.pivot_table(
     index=["Time Period", "Frequency"],
     columns="Cluster",
     values="SHAP_value",
-    aggfunc=aggregation_method
+    aggfunc=aggregation_method,
+    fill_value=0
 ).sort_index()
+
+# Debug print pivot table
+st.write("Pivot table shape:", pivot_df.shape)
+st.write("Pivot table head:", pivot_df.head())
 
 # Prepare data for heatmap
 heatmap_matrix = pivot_df.values
@@ -125,7 +141,8 @@ fig = go.Figure(
         colorscale="Viridis",
         colorbar=dict(
             title=f"SHAP Value ({aggregation_method})",
-            titleside="right"
+            titleside="right",
+            title_font=dict(color='white')
         ),
         text=np.round(heatmap_matrix, 3),
         hovertemplate="Cluster: %{x}<br>Time Period & Frequency: %{y}<br>SHAP Value: %{z:.3f}<extra></extra>"
@@ -163,12 +180,16 @@ fig.update_layout(
     title=dict(
         text="SHAP Values Distribution Across Brain Regions",
         x=0.5,
-        font=dict(size=20)
+        font=dict(size=20, color='white')
     ),
+    paper_bgcolor='black',
+    plot_bgcolor='black',
     xaxis=dict(
         title="Clusters (Left → Right, Front → Back)",
-        title_font=dict(size=16),
-        tickfont=dict(size=12),
+        title_font=dict(size=16, color='white'),
+        tickfont=dict(size=12, color='white'),
+        gridcolor='#444444',
+        showgrid=True,
         ticktext=[
             "Left Frontal (CL1)", "Right Frontal (CL4)",
             "Left Central (CL2)", "Right Central (CL5)",
@@ -178,18 +199,23 @@ fig.update_layout(
     ),
     yaxis=dict(
         title="Time Period, Frequency",
-        title_font=dict(size=16),
-        tickfont=dict(size=12)
+        title_font=dict(size=16, color='white'),
+        tickfont=dict(size=12, color='white'),
+        gridcolor='#444444',
+        showgrid=True
     ),
     margin=dict(l=150, r=50, t=100, b=150),
     height=800,
     width=1000,
     legend=dict(
         title="Time Period",
+        title_font=dict(color='white'),
+        font=dict(color='white'),
         orientation="h",
         y=-0.2,
         x=0.5,
-        xanchor="center"
+        xanchor="center",
+        bgcolor='rgba(0,0,0,0.5)'
     )
 )
 
