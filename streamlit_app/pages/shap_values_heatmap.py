@@ -24,7 +24,7 @@ TIME_PERIOD_LABELS = {
     '(5, 10)': 'Late'
 }
 
-CLUSTER_ORDER = ['CL1', 'CL4', 'CL2', 'CL5', 'CL3', 'CL6']
+CLUSTER_ORDER = ['CL1', 'CL2', 'CL3', 'CL4', 'CL5', 'CL6']
 CLUSTER_LABELS = {
     'CL1': 'Left Frontal',
     'CL4': 'Right Frontal',
