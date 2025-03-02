@@ -1,91 +1,91 @@
 Stimulus,TargetScore,features,params,p_values,params_significant,Cluster,Time Period,Frequency,Estimator_x,Estimator_y,SHAP_value
-Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_alpha",-0.0462001020625895,0.4746379876994164,0.0,CL1,"(-4, 0)",alpha,Linear,LightGBM,18.860911756573234
-Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_beta",-0.1648324036296055,0.0594691968131914,0.0,CL1,"(-4, 0)",beta,Linear,LightGBM,-11.253170607901769
-Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_delta",0.0096683565210463,0.8399292220715506,0.0,CL1,"(-4, 0)",delta,Linear,LightGBM,-0.6442852406056628
-Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_lower gamma",0.0431095215036878,0.5847960668236039,0.0,CL1,"(-4, 0)",lower gamma,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_theta",0.0228790866140893,0.6672693298795487,0.0,CL1,"(-4, 0)",theta,Linear,LightGBM,3.292666305997262
-Haiku,Aesthetic_Appeal,"CL1_(0, 5)_alpha",0.1785159692882655,0.0017279953393528,0.1785159692882655,CL1,"(0, 5)",alpha,Linear,LightGBM,3.38607404395972
-Haiku,Aesthetic_Appeal,"CL1_(0, 5)_beta",-0.0174833825079831,0.8475119392092394,0.0,CL1,"(0, 5)",beta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL1_(0, 5)_delta",-0.0697446562557751,0.179373815696945,0.0,CL1,"(0, 5)",delta,Linear,LightGBM,-4.037384184201383
-Haiku,Aesthetic_Appeal,"CL1_(0, 5)_lower gamma",0.1011549424983097,0.2652269316672201,0.0,CL1,"(0, 5)",lower gamma,Linear,LightGBM,-3.7354027943929906
-Haiku,Aesthetic_Appeal,"CL1_(0, 5)_theta",-0.1247529641227734,0.0263385429523725,-0.1247529641227734,CL1,"(0, 5)",theta,Linear,LightGBM,-0.9830090621766386
-Haiku,Aesthetic_Appeal,"CL1_(5, 10)_alpha",0.0478681343807351,0.3128797725313731,0.0,CL1,"(5, 10)",alpha,Linear,LightGBM,1.3548453890121575
-Haiku,Aesthetic_Appeal,"CL1_(5, 10)_beta",-0.1944541180783102,0.0106587407241827,-0.1944541180783102,CL1,"(5, 10)",beta,Linear,LightGBM,0.24958453716444
-Haiku,Aesthetic_Appeal,"CL1_(5, 10)_delta",0.0982971365932573,0.0143196365092553,0.0982971365932573,CL1,"(5, 10)",delta,Linear,LightGBM,-0.5138567726817376
-Haiku,Aesthetic_Appeal,"CL1_(5, 10)_lower gamma",0.0197769227876536,0.7974482928316617,0.0,CL1,"(5, 10)",lower gamma,Linear,LightGBM,0.1232407706894036
-Haiku,Aesthetic_Appeal,"CL1_(5, 10)_theta",-0.0597573072948716,0.2014975391899138,0.0,CL1,"(5, 10)",theta,Linear,LightGBM,-0.2568789440232056
-Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_alpha",0.0531067339050197,0.3144811854806543,0.0,CL2,"(-4, 0)",alpha,Linear,LightGBM,-6.925856574600045
-Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_beta",-0.0209255535189469,0.7543185983436851,0.0,CL2,"(-4, 0)",beta,Linear,LightGBM,-2.6534292180764023
-Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_delta",-0.0083246824421078,0.889250418579514,0.0,CL2,"(-4, 0)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_lower gamma",0.0338524446447913,0.6075311430149252,0.0,CL2,"(-4, 0)",lower gamma,Linear,LightGBM,0.6925827887805391
-Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_theta",-0.0425129293394036,0.4909270928997611,0.0,CL2,"(-4, 0)",theta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL2_(0, 5)_alpha",-0.0832085607185988,0.145543838697919,0.0,CL2,"(0, 5)",alpha,Linear,LightGBM,10.133362283803573
-Haiku,Aesthetic_Appeal,"CL2_(0, 5)_beta",-0.0894333391490365,0.2774817639510537,0.0,CL2,"(0, 5)",beta,Linear,LightGBM,-1.6181669015955191
-Haiku,Aesthetic_Appeal,"CL2_(0, 5)_delta",0.0388727739076442,0.6244862074693396,0.0,CL2,"(0, 5)",delta,Linear,LightGBM,-12.03815129859448
-Haiku,Aesthetic_Appeal,"CL2_(0, 5)_lower gamma",0.0392683756128945,0.5974090503459402,0.0,CL2,"(0, 5)",lower gamma,Linear,LightGBM,-0.10196103643969143
-Haiku,Aesthetic_Appeal,"CL2_(0, 5)_theta",0.0489299816113188,0.5440066324185673,0.0,CL2,"(0, 5)",theta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL2_(5, 10)_alpha",0.1850007173754103,0.0683436862071996,0.0,CL2,"(5, 10)",alpha,Linear,LightGBM,-0.007284958430484442
-Haiku,Aesthetic_Appeal,"CL2_(5, 10)_beta",-0.135055118759711,0.1418807186731864,0.0,CL2,"(5, 10)",beta,Linear,LightGBM,2.8911975139631916
-Haiku,Aesthetic_Appeal,"CL2_(5, 10)_delta",-0.0355922358211576,0.6820650332293952,0.0,CL2,"(5, 10)",delta,Linear,LightGBM,2.149406432025767
-Haiku,Aesthetic_Appeal,"CL2_(5, 10)_lower gamma",0.1444662114553432,0.0053428094291014,0.1444662114553432,CL2,"(5, 10)",lower gamma,Linear,LightGBM,-3.5689969505151398
-Haiku,Aesthetic_Appeal,"CL2_(5, 10)_theta",-0.1526994915537856,0.2591963201086833,0.0,CL2,"(5, 10)",theta,Linear,LightGBM,-3.416929704824388
-Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_alpha",0.046996915162751,0.4613729138380072,0.0,CL3,"(-4, 0)",alpha,Linear,LightGBM,-9.927327210758186
-Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_beta",-0.0816099489380603,0.2138041060020439,0.0,CL3,"(-4, 0)",beta,Linear,LightGBM,1.6868702643760776
-Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_delta",-0.0815466648170151,0.0796686585985422,0.0,CL3,"(-4, 0)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_lower gamma",-0.0762296943865766,0.312545977630612,0.0,CL3,"(-4, 0)",lower gamma,Linear,LightGBM,-2.1460935587303336
-Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_theta",0.103006695437402,0.0286924174645375,0.103006695437402,CL3,"(-4, 0)",theta,Linear,LightGBM,0.5266153553067902
-Haiku,Aesthetic_Appeal,"CL3_(0, 5)_alpha",-0.0705573185866127,0.2306774611389286,0.0,CL3,"(0, 5)",alpha,Linear,LightGBM,1.0240176174943427
-Haiku,Aesthetic_Appeal,"CL3_(0, 5)_beta",0.0820821961404143,0.248558978290135,0.0,CL3,"(0, 5)",beta,Linear,LightGBM,4.73973562202974
-Haiku,Aesthetic_Appeal,"CL3_(0, 5)_delta",-0.0489581129852629,0.2532724595383642,0.0,CL3,"(0, 5)",delta,Linear,LightGBM,11.467443303071192
-Haiku,Aesthetic_Appeal,"CL3_(0, 5)_lower gamma",-0.0266056179425764,0.7572597695502781,0.0,CL3,"(0, 5)",lower gamma,Linear,LightGBM,37.91747061948861
-Haiku,Aesthetic_Appeal,"CL3_(0, 5)_theta",0.0250174170519829,0.5980392308204373,0.0,CL3,"(0, 5)",theta,Linear,LightGBM,1.1850162249537597
-Haiku,Aesthetic_Appeal,"CL3_(5, 10)_alpha",-0.1434635143020557,0.0133389703447987,-0.1434635143020557,CL3,"(5, 10)",alpha,Linear,LightGBM,13.06834041566723
-Haiku,Aesthetic_Appeal,"CL3_(5, 10)_beta",0.249818379431826,0.0002062322480347,0.249818379431826,CL3,"(5, 10)",beta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL3_(5, 10)_delta",-0.0939461390099463,0.0330210383989176,-0.0939461390099463,CL3,"(5, 10)",delta,Linear,LightGBM,0.7060341417071577
-Haiku,Aesthetic_Appeal,"CL3_(5, 10)_lower gamma",-0.1094860837659419,0.1407726966217324,0.0,CL3,"(5, 10)",lower gamma,Linear,LightGBM,68.21179900671804
-Haiku,Aesthetic_Appeal,"CL3_(5, 10)_theta",0.1114651689011327,0.0186548439168952,0.1114651689011327,CL3,"(5, 10)",theta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_alpha",0.2816947832839065,0.0001918696503782,0.2816947832839065,CL4,"(-4, 0)",alpha,Linear,LightGBM,1.2734093993317763
-Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_beta",-0.1177157899452636,0.2447234432962469,0.0,CL4,"(-4, 0)",beta,Linear,LightGBM,-9.628420913396232
-Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_delta",0.010287491692543,0.8435533907700057,0.0,CL4,"(-4, 0)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_lower gamma",0.1354773271485323,0.1100810138600369,0.0,CL4,"(-4, 0)",lower gamma,Linear,LightGBM,0.3423511857711374
-Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_theta",-0.0695192647732536,0.2905845247447504,0.0,CL4,"(-4, 0)",theta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL4_(0, 5)_alpha",-0.0389403200316853,0.5751631180734437,0.0,CL4,"(0, 5)",alpha,Linear,LightGBM,1.3636459137861445
-Haiku,Aesthetic_Appeal,"CL4_(0, 5)_beta",-0.1799617139093522,0.0898091448588951,0.0,CL4,"(0, 5)",beta,Linear,LightGBM,-16.988442117415833
-Haiku,Aesthetic_Appeal,"CL4_(0, 5)_delta",0.0039346028611812,0.9380071444782356,0.0,CL4,"(0, 5)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL4_(0, 5)_lower gamma",0.1602883795522494,0.1011649758689768,0.0,CL4,"(0, 5)",lower gamma,Linear,LightGBM,-7.02932410788372
-Haiku,Aesthetic_Appeal,"CL4_(0, 5)_theta",0.1063958183906778,0.1167863173784934,0.0,CL4,"(0, 5)",theta,Linear,LightGBM,21.337735178511327
-Haiku,Aesthetic_Appeal,"CL4_(5, 10)_alpha",0.0293891765107141,0.6564951632052698,0.0,CL4,"(5, 10)",alpha,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL4_(5, 10)_beta",0.1160756543956563,0.2495452193789944,0.0,CL4,"(5, 10)",beta,Linear,LightGBM,92.43290501956392
-Haiku,Aesthetic_Appeal,"CL4_(5, 10)_delta",-0.0958071182294263,0.0705690992712777,0.0,CL4,"(5, 10)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL4_(5, 10)_lower gamma",-0.169266502804179,0.0501532652329564,0.0,CL4,"(5, 10)",lower gamma,Linear,LightGBM,1.0756177370343536
-Haiku,Aesthetic_Appeal,"CL4_(5, 10)_theta",0.0566967544654784,0.3482672874078438,0.0,CL4,"(5, 10)",theta,Linear,LightGBM,-2.5161251959438915
-Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_alpha",-0.2445502760975785,0.0034737256996724,-0.2445502760975785,CL5,"(-4, 0)",alpha,Linear,LightGBM,0.03654221250606147
-Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_beta",0.1615138193115725,0.0997824614967121,0.0,CL5,"(-4, 0)",beta,Linear,LightGBM,56.63332825595263
-Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_delta",0.1035781154351124,0.0927857189423449,0.0,CL5,"(-4, 0)",delta,Linear,LightGBM,-1.610235741314727
-Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_lower gamma",-0.0967922888577456,0.2731753625820718,0.0,CL5,"(-4, 0)",lower gamma,Linear,LightGBM,4.273578097583451
-Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_theta",0.0052840951276406,0.9438887501975072,0.0,CL5,"(-4, 0)",theta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL5_(0, 5)_alpha",-0.3003340938440067,0.0002099241709517,-0.3003340938440067,CL5,"(0, 5)",alpha,Linear,LightGBM,13.2349525328311
-Haiku,Aesthetic_Appeal,"CL5_(0, 5)_beta",0.3274814467961081,0.0012383864405742,0.3274814467961081,CL5,"(0, 5)",beta,Linear,LightGBM,2.345757471281737
-Haiku,Aesthetic_Appeal,"CL5_(0, 5)_delta",0.1346825755654415,0.0139485505971402,0.1346825755654415,CL5,"(0, 5)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL5_(0, 5)_lower gamma",-0.2220575602020601,0.0182811422125106,-0.2220575602020601,CL5,"(0, 5)",lower gamma,Linear,LightGBM,6.409705927939037
-Haiku,Aesthetic_Appeal,"CL5_(0, 5)_theta",-0.1018931804573902,0.1417368421736465,0.0,CL5,"(0, 5)",theta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL5_(5, 10)_alpha",-0.0767914884774372,0.3454341143132464,0.0,CL5,"(5, 10)",alpha,Linear,LightGBM,3.0390355033572023
-Haiku,Aesthetic_Appeal,"CL5_(5, 10)_beta",-0.084629649404398,0.3943724328984029,0.0,CL5,"(5, 10)",beta,Linear,LightGBM,-0.513740223208459
-Haiku,Aesthetic_Appeal,"CL5_(5, 10)_delta",0.0983712872758427,0.1074799294646825,0.0,CL5,"(5, 10)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL5_(5, 10)_lower gamma",0.0456027680490011,0.5820128121219117,0.0,CL5,"(5, 10)",lower gamma,Linear,LightGBM,1.0283969434124933
-Haiku,Aesthetic_Appeal,"CL5_(5, 10)_theta",-0.0506976142130949,0.4300584462088306,0.0,CL5,"(5, 10)",theta,Linear,LightGBM,0.7824421848953035
-Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_alpha",0.0430747252823997,0.5475891468288645,0.0,CL6,"(-4, 0)",alpha,Linear,LightGBM,-0.3845949985196943
-Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_beta",0.1268636532641546,0.0602764661939536,0.0,CL6,"(-4, 0)",beta,Linear,LightGBM,-0.4018744034034126
-Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_delta",-0.0150263417088735,0.7500687139026138,0.0,CL6,"(-4, 0)",delta,Linear,LightGBM,0.07811440405450618
-Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_lower gamma",-0.0581708480016233,0.4629981177847553,0.0,CL6,"(-4, 0)",lower gamma,Linear,LightGBM,57.02452066940008
-Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_theta",-0.0162810336878343,0.7736341823187007,0.0,CL6,"(-4, 0)",theta,Linear,LightGBM,11.95140077762241
-Haiku,Aesthetic_Appeal,"CL6_(0, 5)_alpha",0.0904587657236327,0.2006710595091323,0.0,CL6,"(0, 5)",alpha,Linear,LightGBM,-1.2876401924239085
-Haiku,Aesthetic_Appeal,"CL6_(0, 5)_beta",-0.194840114333256,0.0127094962008118,-0.194840114333256,CL6,"(0, 5)",beta,Linear,LightGBM,-0.24916876850198352
-Haiku,Aesthetic_Appeal,"CL6_(0, 5)_delta",0.0275509056614115,0.5570314187443208,0.0,CL6,"(0, 5)",delta,Linear,LightGBM,0.0
-Haiku,Aesthetic_Appeal,"CL6_(0, 5)_lower gamma",-0.0613634342346069,0.5130253306006356,0.0,CL6,"(0, 5)",lower gamma,Linear,LightGBM,-0.9194197398714402
-Haiku,Aesthetic_Appeal,"CL6_(0, 5)_theta",0.1210781359524139,0.0300390045768804,0.1210781359524139,CL6,"(0, 5)",theta,Linear,LightGBM,4.363020224329018
-Haiku,Aesthetic_Appeal,"CL6_(5, 10)_alpha",0.1693429013384999,0.0145721836998414,0.1693429013384999,CL6,"(5, 10)",alpha,Linear,LightGBM,-14.863419862960429
-Haiku,Aesthetic_Appeal,"CL6_(5, 10)_beta",-0.1845066178643752,0.0099703252791453,-0.1845066178643752,CL6,"(5, 10)",beta,Linear,LightGBM,-1.2624937260221154
-Haiku,Aesthetic_Appeal,"CL6_(5, 10)_delta",0.0409359768279654,0.4213418653510613,0.0,CL6,"(5, 10)",delta,Linear,LightGBM,-0.05746108868806866
-Haiku,Aesthetic_Appeal,"CL6_(5, 10)_lower gamma",0.2297221374169048,0.0046011367517853,0.2297221374169048,CL6,"(5, 10)",lower gamma,Linear,LightGBM,-1.2008330368789444
-Haiku,Aesthetic_Appeal,"CL6_(5, 10)_theta",-0.1189382148968344,0.0298655092413181,-0.1189382148968344,CL6,"(5, 10)",theta,Linear,LightGBM,0.8713851006292692
+Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_alpha",-0.1010390807702755,0.3704439588239439,0.0,CL1,"(-4, 0)",alpha,Linear,LightGBM,18.860911756573234
+Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_beta",-0.306706362959332,0.0471720838202997,-0.306706362959332,CL1,"(-4, 0)",beta,Linear,LightGBM,-11.253170607901769
+Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_delta",0.0289569621280885,0.7358379791138918,0.0,CL1,"(-4, 0)",delta,Linear,LightGBM,-0.6442852406056628
+Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_lower gamma",0.1184730583656848,0.3897715735549387,0.0,CL1,"(-4, 0)",lower gamma,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_theta",0.0561993415266965,0.5507437070520056,0.0,CL1,"(-4, 0)",theta,Linear,LightGBM,3.292666305997262
+Haiku,Aesthetic_Appeal,"CL1_(0, 5)_alpha",0.2782083262718319,0.0044825334976175,0.2782083262718319,CL1,"(0, 5)",alpha,Linear,LightGBM,3.38607404395972
+Haiku,Aesthetic_Appeal,"CL1_(0, 5)_beta",-0.1011426261205356,0.5196516475128663,0.0,CL1,"(0, 5)",beta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL1_(0, 5)_delta",-0.1519760579213504,0.0970241993915315,0.0,CL1,"(0, 5)",delta,Linear,LightGBM,-4.037384184201383
+Haiku,Aesthetic_Appeal,"CL1_(0, 5)_lower gamma",0.2058966665850924,0.1921651499901853,0.0,CL1,"(0, 5)",lower gamma,Linear,LightGBM,-3.7354027943929906
+Haiku,Aesthetic_Appeal,"CL1_(0, 5)_theta",-0.2015252491159855,0.0403229844037873,-0.2015252491159855,CL1,"(0, 5)",theta,Linear,LightGBM,-0.9830090621766386
+Haiku,Aesthetic_Appeal,"CL1_(5, 10)_alpha",0.1551957208539475,0.0718767113716804,0.0,CL1,"(5, 10)",alpha,Linear,LightGBM,1.3548453890121575
+Haiku,Aesthetic_Appeal,"CL1_(5, 10)_beta",-0.280918640966257,0.0337831764193998,-0.280918640966257,CL1,"(5, 10)",beta,Linear,LightGBM,0.24958453716444
+Haiku,Aesthetic_Appeal,"CL1_(5, 10)_delta",0.2197074860845026,0.0016162402845361,0.2197074860845026,CL1,"(5, 10)",delta,Linear,LightGBM,-0.5138567726817376
+Haiku,Aesthetic_Appeal,"CL1_(5, 10)_lower gamma",0.0023273966491459,0.9860680524053376,0.0,CL1,"(5, 10)",lower gamma,Linear,LightGBM,0.1232407706894036
+Haiku,Aesthetic_Appeal,"CL1_(5, 10)_theta",-0.1992531796291898,0.0163964107282929,-0.1992531796291898,CL1,"(5, 10)",theta,Linear,LightGBM,-0.2568789440232056
+Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_alpha",0.0985083036283928,0.2779696327313712,0.0,CL2,"(-4, 0)",alpha,Linear,LightGBM,-6.925856574600045
+Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_beta",-0.1252943287188665,0.2952140397360732,0.0,CL2,"(-4, 0)",beta,Linear,LightGBM,-2.6534292180764023
+Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_delta",-0.0414306438863168,0.6955758189696628,0.0,CL2,"(-4, 0)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_lower gamma",0.1287091249840582,0.2637720788125952,0.0,CL2,"(-4, 0)",lower gamma,Linear,LightGBM,0.6925827887805391
+Haiku,Aesthetic_Appeal,"CL2_(-4, 0)_theta",-0.0285770776635411,0.7946200569561919,0.0,CL2,"(-4, 0)",theta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL2_(0, 5)_alpha",-0.1036030005200504,0.3035317694947609,0.0,CL2,"(0, 5)",alpha,Linear,LightGBM,10.133362283803573
+Haiku,Aesthetic_Appeal,"CL2_(0, 5)_beta",-0.1600034497249681,0.270615867042227,0.0,CL2,"(0, 5)",beta,Linear,LightGBM,-1.6181669015955191
+Haiku,Aesthetic_Appeal,"CL2_(0, 5)_delta",0.1955538312974007,0.1693342309258384,0.0,CL2,"(0, 5)",delta,Linear,LightGBM,-12.03815129859448
+Haiku,Aesthetic_Appeal,"CL2_(0, 5)_lower gamma",0.12496658160296,0.3397762271727587,0.0,CL2,"(0, 5)",lower gamma,Linear,LightGBM,-0.10196103643969143
+Haiku,Aesthetic_Appeal,"CL2_(0, 5)_theta",-0.0388641862230611,0.7868708484773876,0.0,CL2,"(0, 5)",theta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL2_(5, 10)_alpha",0.1427967400304791,0.4502641453600998,0.0,CL2,"(5, 10)",alpha,Linear,LightGBM,-0.007284958430484442
+Haiku,Aesthetic_Appeal,"CL2_(5, 10)_beta",-0.1231138389071757,0.4336479435343434,0.0,CL2,"(5, 10)",beta,Linear,LightGBM,2.8911975139631916
+Haiku,Aesthetic_Appeal,"CL2_(5, 10)_delta",-0.1644714585955324,0.2630909790542449,0.0,CL2,"(5, 10)",delta,Linear,LightGBM,2.149406432025767
+Haiku,Aesthetic_Appeal,"CL2_(5, 10)_lower gamma",0.1812626672745352,0.0415557838129621,0.1812626672745352,CL2,"(5, 10)",lower gamma,Linear,LightGBM,-3.5689969505151398
+Haiku,Aesthetic_Appeal,"CL2_(5, 10)_theta",-0.0904768054245954,0.6970441454992835,0.0,CL2,"(5, 10)",theta,Linear,LightGBM,-3.416929704824388
+Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_alpha",-0.0009659182810314,0.9930177665026868,0.0,CL3,"(-4, 0)",alpha,Linear,LightGBM,-9.927327210758186
+Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_beta",-0.063106711101388,0.5794446781862664,0.0,CL3,"(-4, 0)",beta,Linear,LightGBM,1.6868702643760776
+Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_delta",-0.1176239341644503,0.1543951055830876,0.0,CL3,"(-4, 0)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_lower gamma",-0.1674165629076609,0.1968646156186041,0.0,CL3,"(-4, 0)",lower gamma,Linear,LightGBM,-2.1460935587303336
+Haiku,Aesthetic_Appeal,"CL3_(-4, 0)_theta",0.1596917512951743,0.0481395387862115,0.1596917512951743,CL3,"(-4, 0)",theta,Linear,LightGBM,0.5266153553067902
+Haiku,Aesthetic_Appeal,"CL3_(0, 5)_alpha",-0.1069495541651767,0.2941421645978925,0.0,CL3,"(0, 5)",alpha,Linear,LightGBM,1.0240176174943427
+Haiku,Aesthetic_Appeal,"CL3_(0, 5)_beta",0.1927735104384972,0.1172344679558655,0.0,CL3,"(0, 5)",beta,Linear,LightGBM,4.73973562202974
+Haiku,Aesthetic_Appeal,"CL3_(0, 5)_delta",-0.1330437782887445,0.0716341027889358,0.0,CL3,"(0, 5)",delta,Linear,LightGBM,11.467443303071192
+Haiku,Aesthetic_Appeal,"CL3_(0, 5)_lower gamma",-0.1604495733853022,0.2828758715243918,0.0,CL3,"(0, 5)",lower gamma,Linear,LightGBM,37.91747061948861
+Haiku,Aesthetic_Appeal,"CL3_(0, 5)_theta",0.0962352306624349,0.2431501467166923,0.0,CL3,"(0, 5)",theta,Linear,LightGBM,1.1850162249537597
+Haiku,Aesthetic_Appeal,"CL3_(5, 10)_alpha",-0.1792107943470278,0.073631996521284,0.0,CL3,"(5, 10)",alpha,Linear,LightGBM,13.06834041566723
+Haiku,Aesthetic_Appeal,"CL3_(5, 10)_beta",0.3897867202255305,0.0008418177102559,0.3897867202255305,CL3,"(5, 10)",beta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL3_(5, 10)_delta",-0.203866628769839,0.0075656825507305,-0.203866628769839,CL3,"(5, 10)",delta,Linear,LightGBM,0.7060341417071577
+Haiku,Aesthetic_Appeal,"CL3_(5, 10)_lower gamma",-0.1261105689878329,0.3252283267467964,0.0,CL3,"(5, 10)",lower gamma,Linear,LightGBM,68.21179900671804
+Haiku,Aesthetic_Appeal,"CL3_(5, 10)_theta",0.2000147294785839,0.0154897898003336,0.2000147294785839,CL3,"(5, 10)",theta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_alpha",0.4261572578456143,0.0012616995566645,0.4261572578456143,CL4,"(-4, 0)",alpha,Linear,LightGBM,1.2734093993317763
+Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_beta",-0.1222594414295734,0.4850385275427651,0.0,CL4,"(-4, 0)",beta,Linear,LightGBM,-9.628420913396232
+Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_delta",-0.033647175552826,0.716202449410356,0.0,CL4,"(-4, 0)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_lower gamma",0.1844655442164489,0.2141801104893959,0.0,CL4,"(-4, 0)",lower gamma,Linear,LightGBM,0.3423511857711374
+Haiku,Aesthetic_Appeal,"CL4_(-4, 0)_theta",-0.057774457437913,0.6130792066204724,0.0,CL4,"(-4, 0)",theta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL4_(0, 5)_alpha",-0.0791021741472311,0.5090401139358862,0.0,CL4,"(0, 5)",alpha,Linear,LightGBM,1.3636459137861445
+Haiku,Aesthetic_Appeal,"CL4_(0, 5)_beta",-0.0005622184709743,0.99755156126587,0.0,CL4,"(0, 5)",beta,Linear,LightGBM,-16.988442117415833
+Haiku,Aesthetic_Appeal,"CL4_(0, 5)_delta",0.0540457100317548,0.5354815944906262,0.0,CL4,"(0, 5)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL4_(0, 5)_lower gamma",0.1215365435214784,0.472938020196432,0.0,CL4,"(0, 5)",lower gamma,Linear,LightGBM,-7.02932410788372
+Haiku,Aesthetic_Appeal,"CL4_(0, 5)_theta",0.1217426635834779,0.2969348297181698,0.0,CL4,"(0, 5)",theta,Linear,LightGBM,21.337735178511327
+Haiku,Aesthetic_Appeal,"CL4_(5, 10)_alpha",-0.0206031413803358,0.8590885086175165,0.0,CL4,"(5, 10)",alpha,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL4_(5, 10)_beta",-0.0963328626508777,0.5818565165574194,0.0,CL4,"(5, 10)",beta,Linear,LightGBM,92.43290501956392
+Haiku,Aesthetic_Appeal,"CL4_(5, 10)_delta",-0.1624900793806608,0.0793548892264109,0.0,CL4,"(5, 10)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL4_(5, 10)_lower gamma",-0.1557725262864608,0.3015620989020168,0.0,CL4,"(5, 10)",lower gamma,Linear,LightGBM,1.0756177370343536
+Haiku,Aesthetic_Appeal,"CL4_(5, 10)_theta",0.2108372846997011,0.0480249859995898,0.2108372846997011,CL4,"(5, 10)",theta,Linear,LightGBM,-2.5161251959438915
+Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_alpha",-0.4480830481846125,0.0022209512376845,-0.4480830481846125,CL5,"(-4, 0)",alpha,Linear,LightGBM,0.03654221250606147
+Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_beta",0.3209699693644711,0.0623044074976671,0.0,CL5,"(-4, 0)",beta,Linear,LightGBM,56.63332825595263
+Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_delta",0.2303912921226327,0.0335292946789098,0.2303912921226327,CL5,"(-4, 0)",delta,Linear,LightGBM,-1.610235741314727
+Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_lower gamma",-0.1982872096765223,0.1962160581739817,0.0,CL5,"(-4, 0)",lower gamma,Linear,LightGBM,4.273578097583451
+Haiku,Aesthetic_Appeal,"CL5_(-4, 0)_theta",-0.0416283846598843,0.750015682920766,0.0,CL5,"(-4, 0)",theta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL5_(0, 5)_alpha",-0.4653042337263124,0.0009715562070815,-0.4653042337263124,CL5,"(0, 5)",alpha,Linear,LightGBM,13.2349525328311
+Haiku,Aesthetic_Appeal,"CL5_(0, 5)_beta",0.3019390599558021,0.0865514767115041,0.0,CL5,"(0, 5)",beta,Linear,LightGBM,2.345757471281737
+Haiku,Aesthetic_Appeal,"CL5_(0, 5)_delta",0.1552890553942043,0.0994080409396261,0.0,CL5,"(0, 5)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL5_(0, 5)_lower gamma",-0.2954275036724735,0.0663380974067688,0.0,CL5,"(0, 5)",lower gamma,Linear,LightGBM,6.409705927939037
+Haiku,Aesthetic_Appeal,"CL5_(0, 5)_theta",-0.0867333665723473,0.4686711926320379,0.0,CL5,"(0, 5)",theta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL5_(5, 10)_alpha",-0.0484682047854695,0.7350103413474445,0.0,CL5,"(5, 10)",alpha,Linear,LightGBM,3.0390355033572023
+Haiku,Aesthetic_Appeal,"CL5_(5, 10)_beta",0.0225541823395932,0.8967346288364348,0.0,CL5,"(5, 10)",beta,Linear,LightGBM,-0.513740223208459
+Haiku,Aesthetic_Appeal,"CL5_(5, 10)_delta",0.1441905441800006,0.1781954761155468,0.0,CL5,"(5, 10)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL5_(5, 10)_lower gamma",0.0517351740759453,0.7170067764967707,0.0,CL5,"(5, 10)",lower gamma,Linear,LightGBM,1.0283969434124933
+Haiku,Aesthetic_Appeal,"CL5_(5, 10)_theta",-0.1316230628156181,0.2439051781562864,0.0,CL5,"(5, 10)",theta,Linear,LightGBM,0.7824421848953035
+Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_alpha",0.2103202977053629,0.0913732246212714,0.0,CL6,"(-4, 0)",alpha,Linear,LightGBM,-0.3845949985196943
+Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_beta",0.1634064214001154,0.1673480315527145,0.0,CL6,"(-4, 0)",beta,Linear,LightGBM,-0.4018744034034126
+Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_delta",-0.0433955689277345,0.5996372855797298,0.0,CL6,"(-4, 0)",delta,Linear,LightGBM,0.07811440405450618
+Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_lower gamma",-0.1177187910406788,0.3870279502389271,0.0,CL6,"(-4, 0)",lower gamma,Linear,LightGBM,57.02452066940008
+Haiku,Aesthetic_Appeal,"CL6_(-4, 0)_theta",-0.0090141655446593,0.9264441696378992,0.0,CL6,"(-4, 0)",theta,Linear,LightGBM,11.95140077762241
+Haiku,Aesthetic_Appeal,"CL6_(0, 5)_alpha",0.1043559706527876,0.3936802856985772,0.0,CL6,"(0, 5)",alpha,Linear,LightGBM,-1.2876401924239085
+Haiku,Aesthetic_Appeal,"CL6_(0, 5)_beta",-0.3813159255431053,0.0049887058307871,-0.3813159255431053,CL6,"(0, 5)",beta,Linear,LightGBM,-0.24916876850198352
+Haiku,Aesthetic_Appeal,"CL6_(0, 5)_delta",0.0752228895743258,0.3525312243642891,0.0,CL6,"(0, 5)",delta,Linear,LightGBM,0.0
+Haiku,Aesthetic_Appeal,"CL6_(0, 5)_lower gamma",0.0409121261989465,0.8013637040884106,0.0,CL6,"(0, 5)",lower gamma,Linear,LightGBM,-0.9194197398714402
+Haiku,Aesthetic_Appeal,"CL6_(0, 5)_theta",0.1673303011088611,0.0823421008946618,0.0,CL6,"(0, 5)",theta,Linear,LightGBM,4.363020224329018
+Haiku,Aesthetic_Appeal,"CL6_(5, 10)_alpha",0.1686529866674206,0.1655481842795902,0.0,CL6,"(5, 10)",alpha,Linear,LightGBM,-14.863419862960429
+Haiku,Aesthetic_Appeal,"CL6_(5, 10)_beta",-0.2323680366567022,0.0604441674344264,0.0,CL6,"(5, 10)",beta,Linear,LightGBM,-1.2624937260221154
+Haiku,Aesthetic_Appeal,"CL6_(5, 10)_delta",0.1242069871619757,0.1577430384995249,0.0,CL6,"(5, 10)",delta,Linear,LightGBM,-0.05746108868806866
+Haiku,Aesthetic_Appeal,"CL6_(5, 10)_lower gamma",0.2734866759661719,0.0520676114418787,0.0,CL6,"(5, 10)",lower gamma,Linear,LightGBM,-1.2008330368789444
+Haiku,Aesthetic_Appeal,"CL6_(5, 10)_theta",-0.2011980312213548,0.0333047271094354,-0.2011980312213548,CL6,"(5, 10)",theta,Linear,LightGBM,0.8713851006292692

@@ -359,96 +359,96 @@ Control,Originality,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,0.0
 Control,Originality,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.0
 Control,Originality,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,-1.5110947363091445e-05
 Control,Originality,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,4.256352483060645e-05
-Control,Vivid_Imagery,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.0007518060389462089
-Control,Vivid_Imagery,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,0.0022368478234533833
-Control,Vivid_Imagery,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,5.157644156180873e-05
-Control,Vivid_Imagery,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,0.0002657890039036698
-Control,Vivid_Imagery,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.0014973812355293104
-Control,Vivid_Imagery,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,0.0002100816289028616
-Control,Vivid_Imagery,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,-0.00011097693576300955
-Control,Vivid_Imagery,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,5.241216933001558e-05
-Control,Vivid_Imagery,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,-0.00019548119869441623
-Control,Vivid_Imagery,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,7.352527271446849e-05
-Control,Vivid_Imagery,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.0002622716820933505
-Control,Vivid_Imagery,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,0.0018510994100274876
-Control,Vivid_Imagery,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,0.0006952470379455587
-Control,Vivid_Imagery,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,2.8461430278848664e-05
-Control,Vivid_Imagery,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,0.0022477940289325855
-Control,Vivid_Imagery,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,0.000349302496398685
-Control,Vivid_Imagery,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,-7.989848517509625e-06
-Control,Vivid_Imagery,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,6.321996409067785e-05
-Control,Vivid_Imagery,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,-4.614681207496271e-05
-Control,Vivid_Imagery,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.0007427861339605839
-Control,Vivid_Imagery,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,0.0005069677553136062
-Control,Vivid_Imagery,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,-0.0001998082174501088
-Control,Vivid_Imagery,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,0.0003791656859987059
-Control,Vivid_Imagery,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,-0.0001312087711666046
-Control,Vivid_Imagery,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,0.0006487883317305043
-Control,Vivid_Imagery,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,9.788839010853317e-05
-Control,Vivid_Imagery,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,-0.00011394167972799264
-Control,Vivid_Imagery,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,0.0008150523638413128
-Control,Vivid_Imagery,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,1.7469884554080158e-05
-Control,Vivid_Imagery,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,0.00038106821880244657
-Control,Vivid_Imagery,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,0.00011281441324259007
-Control,Vivid_Imagery,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,0.0024296299739275137
-Control,Vivid_Imagery,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.00023410133660981187
-Control,Vivid_Imagery,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,0.0004016730759964672
-Control,Vivid_Imagery,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.000239509255954735
-Control,Vivid_Imagery,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.0005439305731225557
-Control,Vivid_Imagery,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,0.0006120828642720381
-Control,Vivid_Imagery,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,6.453586014560846e-05
-Control,Vivid_Imagery,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.0038734824881822283
-Control,Vivid_Imagery,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,0.0004539133501258844
-Control,Vivid_Imagery,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,0.00016074507031656887
-Control,Vivid_Imagery,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.002224010888560334
-Control,Vivid_Imagery,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,1.9607009520877393e-05
-Control,Vivid_Imagery,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,0.0046093248928265225
-Control,Vivid_Imagery,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,0.00017574583087148708
-Control,Vivid_Imagery,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.00023113753978749578
-Control,Vivid_Imagery,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.009440414578648498
-Control,Vivid_Imagery,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,-1.120218948846394e-05
-Control,Vivid_Imagery,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,8.543084110780939e-05
-Control,Vivid_Imagery,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,3.847474056804927e-07
-Control,Vivid_Imagery,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.00011272033897032648
-Control,Vivid_Imagery,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,-0.00018634819072312195
-Control,Vivid_Imagery,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,-2.5810859755363652e-05
-Control,Vivid_Imagery,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,0.0004140293391324245
-Control,Vivid_Imagery,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,-0.00039938659153764764
-Control,Vivid_Imagery,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.0006701883188100638
-Control,Vivid_Imagery,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,0.00047172069963876887
-Control,Vivid_Imagery,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,0.00012483074808066575
-Control,Vivid_Imagery,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,0.0005452317701804815
-Control,Vivid_Imagery,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,-0.00032790805878087477
-Control,Vivid_Imagery,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,-0.00014899601172391
-Control,Vivid_Imagery,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,-0.00013939222681357902
-Control,Vivid_Imagery,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,-0.00019481734580505068
-Control,Vivid_Imagery,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,5.142115601897991e-05
-Control,Vivid_Imagery,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,3.0602906859225364e-05
-Control,Vivid_Imagery,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,0.0007175047786929792
-Control,Vivid_Imagery,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,4.4507612117961845e-06
-Control,Vivid_Imagery,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,0.00015908070871611376
-Control,Vivid_Imagery,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,0.00047203990655423164
-Control,Vivid_Imagery,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,0.0007054660788199284
-Control,Vivid_Imagery,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,0.0004791966787203503
-Control,Vivid_Imagery,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,-0.00016461645874185006
-Control,Vivid_Imagery,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,0.0002573185606975056
-Control,Vivid_Imagery,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,5.859581557672464e-05
-Control,Vivid_Imagery,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,0.0003368051623343714
-Control,Vivid_Imagery,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,4.406248643040738e-05
-Control,Vivid_Imagery,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,2.0429892338081072e-05
-Control,Vivid_Imagery,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,0.000488121707605495
-Control,Vivid_Imagery,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,-0.00016704800005675925
-Control,Vivid_Imagery,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,0.00043188908323885355
-Control,Vivid_Imagery,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,0.0006695671169841452
-Control,Vivid_Imagery,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,-0.0007719603488036685
-Control,Vivid_Imagery,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,0.00024648018469528455
-Control,Vivid_Imagery,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,-0.00011102860292112044
-Control,Vivid_Imagery,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,5.008442256927976e-06
-Control,Vivid_Imagery,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,0.0008095153161429731
-Control,Vivid_Imagery,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,-0.00010467979149203044
-Control,Vivid_Imagery,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.00026149617629188816
-Control,Vivid_Imagery,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,8.661513679903064e-05
-Control,Vivid_Imagery,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.00033509690669469004
+Control,Vivid_Imagery,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.00014138060829357272
+Control,Vivid_Imagery,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,0.0016357753343983453
+Control,Vivid_Imagery,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,-0.0001449386072246931
+Control,Vivid_Imagery,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,0.0005830353263015796
+Control,Vivid_Imagery,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.0024002305033429213
+Control,Vivid_Imagery,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,-3.37762647012088e-05
+Control,Vivid_Imagery,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,9.339661766506765e-05
+Control,Vivid_Imagery,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,2.052641063657061e-05
+Control,Vivid_Imagery,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,0.0016762220862904546
+Control,Vivid_Imagery,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,0.00026676998199960883
+Control,Vivid_Imagery,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.00032486405481605817
+Control,Vivid_Imagery,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,0.012858243822212725
+Control,Vivid_Imagery,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,0.00040156068113322477
+Control,Vivid_Imagery,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,-0.00010604565220761085
+Control,Vivid_Imagery,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,0.00251116056337232
+Control,Vivid_Imagery,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,0.0011275743695981916
+Control,Vivid_Imagery,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,-4.984251396580049e-05
+Control,Vivid_Imagery,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,-0.00029802778758692176
+Control,Vivid_Imagery,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,-0.0007738818979337565
+Control,Vivid_Imagery,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.0001266037775905552
+Control,Vivid_Imagery,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,0.00013021447267901572
+Control,Vivid_Imagery,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,-0.0003524978368132726
+Control,Vivid_Imagery,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,-0.00014589881987756104
+Control,Vivid_Imagery,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,-0.0007560815877917892
+Control,Vivid_Imagery,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,0.00028468376842660174
+Control,Vivid_Imagery,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.000810842080696789
+Control,Vivid_Imagery,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,-0.00020267737243718681
+Control,Vivid_Imagery,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,0.0007059693459465352
+Control,Vivid_Imagery,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,0.0022550418688227812
+Control,Vivid_Imagery,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,-7.229127932643608e-05
+Control,Vivid_Imagery,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,3.340242946783422e-05
+Control,Vivid_Imagery,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,0.001395821544893562
+Control,Vivid_Imagery,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,-0.0001496686449893021
+Control,Vivid_Imagery,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,0.00012317174370126
+Control,Vivid_Imagery,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,-0.0006835760371358121
+Control,Vivid_Imagery,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.00010387386353845484
+Control,Vivid_Imagery,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,-9.479335041799978e-05
+Control,Vivid_Imagery,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,-8.665143361396095e-05
+Control,Vivid_Imagery,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.0036554893892626252
+Control,Vivid_Imagery,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,0.000450997062609886
+Control,Vivid_Imagery,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,-0.0003557694505888471
+Control,Vivid_Imagery,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.00224297974797189
+Control,Vivid_Imagery,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,9.233172297136136e-05
+Control,Vivid_Imagery,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,0.008876228831461944
+Control,Vivid_Imagery,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,-0.00011021312889157865
+Control,Vivid_Imagery,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.0005362862685262396
+Control,Vivid_Imagery,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.004172994041646344
+Control,Vivid_Imagery,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,9.080223373374035e-06
+Control,Vivid_Imagery,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,9.828249013386738e-05
+Control,Vivid_Imagery,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,-0.00014896358221856918
+Control,Vivid_Imagery,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.00024053086479635004
+Control,Vivid_Imagery,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,-0.000224839530122697
+Control,Vivid_Imagery,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,-1.1973609472749374e-05
+Control,Vivid_Imagery,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,0.00014458842063767635
+Control,Vivid_Imagery,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,-0.00047053801218196155
+Control,Vivid_Imagery,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.00030257715740183815
+Control,Vivid_Imagery,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,0.0002993808904875386
+Control,Vivid_Imagery,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,-0.0003310199111063465
+Control,Vivid_Imagery,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,-0.0005200270552620217
+Control,Vivid_Imagery,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,-0.000964803579809963
+Control,Vivid_Imagery,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,-0.0002840971139597732
+Control,Vivid_Imagery,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,-0.0005362357511636402
+Control,Vivid_Imagery,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,-0.00023876532650801916
+Control,Vivid_Imagery,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,-0.00022317884958619318
+Control,Vivid_Imagery,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,3.298920025367119e-05
+Control,Vivid_Imagery,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,0.00034240515743403385
+Control,Vivid_Imagery,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,-0.00019567361986884554
+Control,Vivid_Imagery,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,0.00012515514530946276
+Control,Vivid_Imagery,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,0.0007276151987698907
+Control,Vivid_Imagery,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,0.0007969515149799833
+Control,Vivid_Imagery,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,0.0006723025104986106
+Control,Vivid_Imagery,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,-0.0001265373531199371
+Control,Vivid_Imagery,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,-8.407444560191906e-06
+Control,Vivid_Imagery,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,0.0002531856865046705
+Control,Vivid_Imagery,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,-9.573381403600656e-05
+Control,Vivid_Imagery,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,-0.000476441598640942
+Control,Vivid_Imagery,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,-0.00226019944784132
+Control,Vivid_Imagery,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,-0.0004326411154388776
+Control,Vivid_Imagery,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,-9.22266993112141e-05
+Control,Vivid_Imagery,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,-0.00026706459000550313
+Control,Vivid_Imagery,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,0.0002533363916909083
+Control,Vivid_Imagery,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,-0.0010203174643438665
+Control,Vivid_Imagery,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,0.00012299317536654077
+Control,Vivid_Imagery,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,-0.00021208596584362463
+Control,Vivid_Imagery,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,-0.00012829531061620445
+Control,Vivid_Imagery,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,4.029472209408262e-05
+Control,Vivid_Imagery,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,-0.00012136946364888001
+Control,Vivid_Imagery,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,1.6063566033587377e-05
+Control,Vivid_Imagery,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,-3.713278268713698e-05
+Control,Vivid_Imagery,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,-1.9715079120660524e-05
 Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.005732799926010101
 Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,-0.003420416598146434
 Haiku,Aesthetic_Appeal,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,-0.00019583138012330178
@@ -629,96 +629,96 @@ Haiku,Creativity,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,0.00215355279262
 Haiku,Creativity,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,-0.0021296263552611568
 Haiku,Creativity,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,0.0004970801582980997
 Haiku,Creativity,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,3.56394236848402e-05
-Haiku,Moved,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.0013141306478389968
-Haiku,Moved,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,0.0017694777809553648
-Haiku,Moved,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,-0.001443676830031049
-Haiku,Moved,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,3.972157871266072e-05
-Haiku,Moved,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.000643024999626579
-Haiku,Moved,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,0.0016020803564436815
-Haiku,Moved,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,0.0007428315394833585
-Haiku,Moved,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,0.0006884964128536201
-Haiku,Moved,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,0.000618241699211392
-Haiku,Moved,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,0.0012757950151093948
-Haiku,Moved,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.012047203380371872
-Haiku,Moved,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,-0.0006004855589273919
-Haiku,Moved,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,-0.000265858091491697
-Haiku,Moved,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,-0.0019472475018434273
-Haiku,Moved,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,0.0019083731930506934
-Haiku,Moved,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,0.0011513607683353376
-Haiku,Moved,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,0.00022915677211308977
-Haiku,Moved,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,-0.0036584891469419742
-Haiku,Moved,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,0.0020090533417038235
-Haiku,Moved,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.0031942194237832436
-Haiku,Moved,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,-0.0009623850546503077
-Haiku,Moved,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,0.0013751098994068912
-Haiku,Moved,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,0.0016074890342778032
-Haiku,Moved,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,0.0015900409547655108
-Haiku,Moved,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,-0.002566580175973783
-Haiku,Moved,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.018583675144709544
-Haiku,Moved,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,-0.0004471626035849904
-Haiku,Moved,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,0.0009118151972171745
-Haiku,Moved,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,0.0014850855091502783
-Haiku,Moved,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,0.00023961405616270033
-Haiku,Moved,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,0.0010127052835285954
-Haiku,Moved,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,0.000652377947714664
-Haiku,Moved,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.012634688842040886
-Haiku,Moved,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,0.0017529115939797463
-Haiku,Moved,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.008141540194173425
-Haiku,Moved,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.003104448280517382
-Haiku,Moved,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,0.0015751321408224322
-Haiku,Moved,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,0.0017002581020921694
-Haiku,Moved,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.0005276821644961263
-Haiku,Moved,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,0.005609585839171375
-Haiku,Moved,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,-0.0004973950343905481
-Haiku,Moved,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.0023751441769435844
-Haiku,Moved,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,0.0023236944491292705
-Haiku,Moved,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,-0.004132706531885036
-Haiku,Moved,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,0.009039023398216273
-Haiku,Moved,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.0019162398085530933
-Haiku,Moved,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.0011355894435076202
-Haiku,Moved,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,-0.0006148912563756969
-Haiku,Moved,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,-0.0007544637122204971
-Haiku,Moved,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,-0.00015737252897243885
-Haiku,Moved,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.0021709837275940658
-Haiku,Moved,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,0.002210910164068627
-Haiku,Moved,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,0.0006925915206511152
-Haiku,Moved,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,-0.001855015886453389
-Haiku,Moved,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,0.001490746542716639
-Haiku,Moved,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.006833740481982059
-Haiku,Moved,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,8.576600802378955e-05
-Haiku,Moved,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,0.00033672429083837465
-Haiku,Moved,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,0.0012469461716214658
-Haiku,Moved,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,0.0014874539638041523
-Haiku,Moved,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,0.002062327639843298
-Haiku,Moved,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,-0.0041313653045591085
-Haiku,Moved,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,0.00020274945070346143
-Haiku,Moved,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,-0.005575692448634978
-Haiku,Moved,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,0.00043381120861902807
-Haiku,Moved,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,-0.0033882873292266132
-Haiku,Moved,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,-0.0007147927011814789
-Haiku,Moved,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,0.001976980767759843
-Haiku,Moved,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,0.0033759252229982966
-Haiku,Moved,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,-0.0002854666225046431
-Haiku,Moved,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,-0.003294379051350429
-Haiku,Moved,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,-0.0022136642397985926
-Haiku,Moved,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,0.0018335809127628
-Haiku,Moved,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,0.022808465781132117
-Haiku,Moved,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,0.0006746754917544857
-Haiku,Moved,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,0.0008123308886358006
-Haiku,Moved,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,0.0032997058877867733
-Haiku,Moved,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,-0.00010798819723618329
-Haiku,Moved,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,-0.0018541506021287574
-Haiku,Moved,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,0.005855738875416338
-Haiku,Moved,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,0.000362490932513708
-Haiku,Moved,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,0.0015319834430780662
-Haiku,Moved,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,0.0011396219190373687
-Haiku,Moved,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,0.001588828532979585
-Haiku,Moved,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,-0.004477854028490077
-Haiku,Moved,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,0.00047215078669469204
-Haiku,Moved,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,9.619640694929997e-06
-Haiku,Moved,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.0029419770208354012
-Haiku,Moved,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,0.0011762155858235622
-Haiku,Moved,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.0011366976876663096
+Haiku,Moved,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.0002915837484833262
+Haiku,Moved,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,-3.1629207651062596e-05
+Haiku,Moved,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,-0.00018550976497559254
+Haiku,Moved,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,0.00016643323287702795
+Haiku,Moved,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,-0.0002073354947000678
+Haiku,Moved,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,8.086535155955384e-05
+Haiku,Moved,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,4.4272502452275545e-05
+Haiku,Moved,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,0.0003398611878541251
+Haiku,Moved,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,0.00015507332469578226
+Haiku,Moved,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,0.0003454271473739182
+Haiku,Moved,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.0029136169925970145
+Haiku,Moved,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,-0.00014230666936502207
+Haiku,Moved,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,-0.00038518098693268374
+Haiku,Moved,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,-0.0003721948358063443
+Haiku,Moved,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,0.00039138705599290436
+Haiku,Moved,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,5.66965175592982e-06
+Haiku,Moved,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,-0.00018062311468740596
+Haiku,Moved,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,-0.0004085341769209163
+Haiku,Moved,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,0.0005464446730047619
+Haiku,Moved,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.0003579258852837853
+Haiku,Moved,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,-0.0005648622411995502
+Haiku,Moved,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,0.0002509309444617158
+Haiku,Moved,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,7.749448161008318e-05
+Haiku,Moved,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,6.636047990790314e-05
+Haiku,Moved,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,-0.00036602342532834355
+Haiku,Moved,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.0024142555324301123
+Haiku,Moved,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,8.20510230894347e-05
+Haiku,Moved,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,-8.713931865302907e-06
+Haiku,Moved,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,0.0002556580092843183
+Haiku,Moved,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,-5.2484272528326486e-05
+Haiku,Moved,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,0.00015858365643730952
+Haiku,Moved,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,0.00031311753185033565
+Haiku,Moved,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.0016415390322276479
+Haiku,Moved,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,0.00036896956559151896
+Haiku,Moved,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.0017697918929778084
+Haiku,Moved,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.0002698736586910948
+Haiku,Moved,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,0.00043698982996280143
+Haiku,Moved,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,0.0003596537389596865
+Haiku,Moved,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.00012756044000927647
+Haiku,Moved,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,0.0016526384986391086
+Haiku,Moved,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,0.00024836115353461997
+Haiku,Moved,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.0004829746374632064
+Haiku,Moved,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,0.0002806171090549973
+Haiku,Moved,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,-0.0011329426377782756
+Haiku,Moved,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,0.0013529989814724047
+Haiku,Moved,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.0005903704511383936
+Haiku,Moved,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.00014518669119569777
+Haiku,Moved,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,-0.00010986400492187334
+Haiku,Moved,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,-0.00024694139307046456
+Haiku,Moved,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,0.00033260068906474424
+Haiku,Moved,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.00021355987153614454
+Haiku,Moved,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,0.00040098129283813814
+Haiku,Moved,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,0.00027214947313187256
+Haiku,Moved,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,-0.00035908948612048283
+Haiku,Moved,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,0.00030220954736583436
+Haiku,Moved,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.0017043742807178706
+Haiku,Moved,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,7.952515994949073e-05
+Haiku,Moved,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,2.850783229060578e-05
+Haiku,Moved,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,7.249688854291557e-05
+Haiku,Moved,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,7.38816169344432e-05
+Haiku,Moved,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,0.000186759612726051
+Haiku,Moved,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,-0.0004596002230053608
+Haiku,Moved,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,0.0001458608531617515
+Haiku,Moved,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,-0.0012971548854626483
+Haiku,Moved,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,0.00018116980869315746
+Haiku,Moved,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,-0.0007812058129722189
+Haiku,Moved,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,5.7071504908316155e-05
+Haiku,Moved,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,0.00010773242195236621
+Haiku,Moved,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,0.00043659062322495823
+Haiku,Moved,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,-0.00013889202786796488
+Haiku,Moved,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,-0.0004946939411937097
+Haiku,Moved,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,-0.0003103245224654985
+Haiku,Moved,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,0.0003247431239118434
+Haiku,Moved,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,0.00372091156492666
+Haiku,Moved,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,0.00015499826119650585
+Haiku,Moved,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,9.13933419237731e-06
+Haiku,Moved,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,0.0004789390135810859
+Haiku,Moved,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,-7.958217934101132e-05
+Haiku,Moved,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,-0.0008134140725783235
+Haiku,Moved,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,0.0014909004183517316
+Haiku,Moved,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,-5.626917082742527e-05
+Haiku,Moved,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,0.0001380828337675089
+Haiku,Moved,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,0.00012245588806393862
+Haiku,Moved,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,0.0005966695210727238
+Haiku,Moved,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,-0.0009838506176423365
+Haiku,Moved,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,0.00012326586717533908
+Haiku,Moved,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,2.0981204379474344e-05
+Haiku,Moved,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.00027655711810482624
+Haiku,Moved,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,-0.000130761506465987
+Haiku,Moved,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.00025432809502961407
 Haiku,Originality,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.0029200867566476314
 Haiku,Originality,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,0.07554330042474142
 Haiku,Originality,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,-0.0004168498957899028
@@ -899,96 +899,96 @@ Haiku,Vivid_Imagery,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,0.04307776866
 Haiku,Vivid_Imagery,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.031941247658712736
 Haiku,Vivid_Imagery,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,0.061760121184499625
 Haiku,Vivid_Imagery,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.10551746019612164
-Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.02028465855511441
-Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,-0.004762810706774083
-Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,0.014972534195137487
-Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,0.0031597331615241947
-Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.006248171706490514
-Senryu,Aesthetic_Appeal,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,0.01899887441623312
-Senryu,Aesthetic_Appeal,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,0.012513309285088427
-Senryu,Aesthetic_Appeal,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,0.018308540788651885
-Senryu,Aesthetic_Appeal,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,0.01575542764379152
-Senryu,Aesthetic_Appeal,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,-0.002910280334190302
-Senryu,Aesthetic_Appeal,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.005674280138743369
-Senryu,Aesthetic_Appeal,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,0.011660273469868783
-Senryu,Aesthetic_Appeal,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,0.006295107503038247
-Senryu,Aesthetic_Appeal,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,0.005214226189819247
-Senryu,Aesthetic_Appeal,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,0.0011243653114838426
-Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,-0.008876057068282296
-Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,0.041528291614914364
-Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,0.00903199170424294
-Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,0.0078248522696841
-Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.004055931865663286
-Senryu,Aesthetic_Appeal,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,-0.008978929489878447
-Senryu,Aesthetic_Appeal,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,-0.010096210020760783
-Senryu,Aesthetic_Appeal,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,0.023995002590553913
-Senryu,Aesthetic_Appeal,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,-0.013872885914643814
-Senryu,Aesthetic_Appeal,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,0.003183098978702244
-Senryu,Aesthetic_Appeal,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.0031154989856644207
-Senryu,Aesthetic_Appeal,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,0.0015344118111952642
-Senryu,Aesthetic_Appeal,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,-0.009869408599794318
-Senryu,Aesthetic_Appeal,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,-0.01805275582467105
-Senryu,Aesthetic_Appeal,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,0.004196678835312482
-Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,0.015557003769446286
-Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,0.018431528428464423
-Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.0017654864959362605
-Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,0.07055695421171054
-Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.04467449279798132
-Senryu,Aesthetic_Appeal,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.025758048028282073
-Senryu,Aesthetic_Appeal,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,0.023631816803067765
-Senryu,Aesthetic_Appeal,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,0.010217054610065413
-Senryu,Aesthetic_Appeal,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.0212624180129797
-Senryu,Aesthetic_Appeal,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,0.04347063629716919
-Senryu,Aesthetic_Appeal,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,0.0022210456808164423
-Senryu,Aesthetic_Appeal,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.005348219734176805
-Senryu,Aesthetic_Appeal,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,0.01567589455119141
-Senryu,Aesthetic_Appeal,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,0.054008004053411475
-Senryu,Aesthetic_Appeal,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,0.020929121422248686
-Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.023226067368892968
-Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.02315254450300651
-Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,0.0031282056532106074
-Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,0.031815803025044775
-Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,0.0028523860427341254
-Senryu,Aesthetic_Appeal,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.012139843114451866
-Senryu,Aesthetic_Appeal,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,0.004876967137819328
-Senryu,Aesthetic_Appeal,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,0.003629200916033114
-Senryu,Aesthetic_Appeal,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,0.016162623245370572
-Senryu,Aesthetic_Appeal,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,0.014248891973926883
-Senryu,Aesthetic_Appeal,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.015897101995988195
-Senryu,Aesthetic_Appeal,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,0.015689417044886307
-Senryu,Aesthetic_Appeal,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,0.009376639445139463
-Senryu,Aesthetic_Appeal,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,0.0009960734687307622
-Senryu,Aesthetic_Appeal,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,0.010289360139055737
-Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,0.017827622332910027
-Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,-0.0407572634817566
-Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,0.007659814383563543
-Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,0.020601948102065032
-Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,0.009242499180923154
-Senryu,Aesthetic_Appeal,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,0.002385721331774878
-Senryu,Aesthetic_Appeal,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,-0.008600743690254755
-Senryu,Aesthetic_Appeal,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,0.0030371673538141745
-Senryu,Aesthetic_Appeal,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,0.0180485508544904
-Senryu,Aesthetic_Appeal,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,0.004957028363183367
-Senryu,Aesthetic_Appeal,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,0.000743405102672378
-Senryu,Aesthetic_Appeal,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,0.013598854745409054
-Senryu,Aesthetic_Appeal,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,0.013538895883922736
-Senryu,Aesthetic_Appeal,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,-0.0014684280109211727
-Senryu,Aesthetic_Appeal,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,0.004200784557878343
-Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,0.008081853098717909
-Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,0.05467290779688376
-Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,0.012692077957930736
-Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,0.03308986995025423
-Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,0.028589816678790732
-Senryu,Aesthetic_Appeal,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,0.014018300827761926
-Senryu,Aesthetic_Appeal,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,0.031579561500218886
-Senryu,Aesthetic_Appeal,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,-0.0015671947447758402
-Senryu,Aesthetic_Appeal,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,-0.003069487507931992
-Senryu,Aesthetic_Appeal,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,0.022096662724376274
-Senryu,Aesthetic_Appeal,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,0.01062589663784601
-Senryu,Aesthetic_Appeal,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,0.00948690842749785
-Senryu,Aesthetic_Appeal,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,-0.00651428507569392
-Senryu,Aesthetic_Appeal,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,0.026169004215441508
-Senryu,Aesthetic_Appeal,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.011943834280234242
+Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.0013453108096461819
+Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,-0.0007571953065250822
+Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,0.0009557681206900984
+Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,0.00018214440683056668
+Senryu,Aesthetic_Appeal,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.0007655699502048639
+Senryu,Aesthetic_Appeal,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,0.001150205951482629
+Senryu,Aesthetic_Appeal,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,0.0012654445986046876
+Senryu,Aesthetic_Appeal,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,0.0007963782288062146
+Senryu,Aesthetic_Appeal,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,0.000791167912100581
+Senryu,Aesthetic_Appeal,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,-0.00020416675729390595
+Senryu,Aesthetic_Appeal,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.00022165311420091157
+Senryu,Aesthetic_Appeal,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,0.0007006888844016822
+Senryu,Aesthetic_Appeal,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,0.0002849540630177034
+Senryu,Aesthetic_Appeal,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,0.00038739903931534706
+Senryu,Aesthetic_Appeal,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,2.8192493130057263e-05
+Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,-0.0002746969598825777
+Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,0.0021965144459535325
+Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,0.0004734986720726708
+Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,0.00022585085308268133
+Senryu,Aesthetic_Appeal,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.0002284434677662716
+Senryu,Aesthetic_Appeal,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,-0.001015427993414178
+Senryu,Aesthetic_Appeal,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,-0.00041720333417047113
+Senryu,Aesthetic_Appeal,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,-0.00037547562037709546
+Senryu,Aesthetic_Appeal,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,-0.000576151372332367
+Senryu,Aesthetic_Appeal,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,0.0002825350444900886
+Senryu,Aesthetic_Appeal,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.0007593049814426414
+Senryu,Aesthetic_Appeal,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,-0.00019822924346194612
+Senryu,Aesthetic_Appeal,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,-0.0006425763699787218
+Senryu,Aesthetic_Appeal,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,-0.0007645125186373768
+Senryu,Aesthetic_Appeal,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,0.0003196272853366308
+Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,0.0012687733924544098
+Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,0.00021615057130407655
+Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.00015147454850377438
+Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,0.00520032726180182
+Senryu,Aesthetic_Appeal,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.0027522023773031215
+Senryu,Aesthetic_Appeal,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.0007723661230654567
+Senryu,Aesthetic_Appeal,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,0.003928034354041915
+Senryu,Aesthetic_Appeal,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,0.00029869652325054607
+Senryu,Aesthetic_Appeal,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.00025900528867136283
+Senryu,Aesthetic_Appeal,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,0.003819959197184738
+Senryu,Aesthetic_Appeal,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,-0.0006431617981124614
+Senryu,Aesthetic_Appeal,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.0001152723054371199
+Senryu,Aesthetic_Appeal,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,0.0022396894631875625
+Senryu,Aesthetic_Appeal,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,0.00356785871537038
+Senryu,Aesthetic_Appeal,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,0.0008516279185800598
+Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.001197066877941323
+Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.0010463574052259833
+Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,0.0003456484324701303
+Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,0.001689256483767307
+Senryu,Aesthetic_Appeal,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,-0.0012211540056125984
+Senryu,Aesthetic_Appeal,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.0010497227944671896
+Senryu,Aesthetic_Appeal,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,-0.00010934400139216782
+Senryu,Aesthetic_Appeal,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,0.00022954433235756197
+Senryu,Aesthetic_Appeal,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,0.0006847958235747117
+Senryu,Aesthetic_Appeal,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,0.0009815245598936452
+Senryu,Aesthetic_Appeal,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.0008364626051871587
+Senryu,Aesthetic_Appeal,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,0.000627295530505485
+Senryu,Aesthetic_Appeal,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,0.0005796567140723637
+Senryu,Aesthetic_Appeal,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,-0.0008939579809364175
+Senryu,Aesthetic_Appeal,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,0.00030128597541918746
+Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,0.0006932349213316147
+Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,0.00014976591535338754
+Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,0.00035254946978711407
+Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,0.0009134168186372354
+Senryu,Aesthetic_Appeal,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,0.000334782887029425
+Senryu,Aesthetic_Appeal,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,-0.0006417764370539809
+Senryu,Aesthetic_Appeal,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,-0.0015833914562082701
+Senryu,Aesthetic_Appeal,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,-0.00031343212756906115
+Senryu,Aesthetic_Appeal,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,0.0014963420689857474
+Senryu,Aesthetic_Appeal,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,-4.597836523446869e-06
+Senryu,Aesthetic_Appeal,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,-7.139262209805702e-05
+Senryu,Aesthetic_Appeal,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,0.001256454576923985
+Senryu,Aesthetic_Appeal,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,0.001043086548577221
+Senryu,Aesthetic_Appeal,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,7.632378174443326e-05
+Senryu,Aesthetic_Appeal,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,0.00013073480139281813
+Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,0.0008885057016709708
+Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,0.0013705901242217176
+Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,0.0007021674949350233
+Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,0.0014224356139649222
+Senryu,Aesthetic_Appeal,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,0.0015702074452194526
+Senryu,Aesthetic_Appeal,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,0.0009208452453971815
+Senryu,Aesthetic_Appeal,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,0.0034439503370586664
+Senryu,Aesthetic_Appeal,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,-0.00027872459644832763
+Senryu,Aesthetic_Appeal,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,-0.0009582607032643015
+Senryu,Aesthetic_Appeal,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,0.00033595140706583137
+Senryu,Aesthetic_Appeal,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,0.0008079825258762782
+Senryu,Aesthetic_Appeal,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,-0.0012298316191331883
+Senryu,Aesthetic_Appeal,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,-0.0014235090022411878
+Senryu,Aesthetic_Appeal,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,0.002161762378657149
+Senryu,Aesthetic_Appeal,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.0007107780542555301
 Senryu,Creativity,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.00415170738315649
 Senryu,Creativity,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,0.0061541344986035754
 Senryu,Creativity,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,-0.0018636238445687897
@@ -1079,96 +1079,96 @@ Senryu,Creativity,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,0.0001042759884
 Senryu,Creativity,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.005061513467157459
 Senryu,Creativity,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,-0.0027287660462844694
 Senryu,Creativity,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,0.0016411299888576013
-Senryu,Moved,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.00011934217420949569
-Senryu,Moved,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,-0.00011706015765334662
-Senryu,Moved,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,1.0287543637956663e-05
-Senryu,Moved,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,3.304694776837617e-05
-Senryu,Moved,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.00030871143616040486
-Senryu,Moved,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,0.00040512876087056446
-Senryu,Moved,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,5.161865366192701e-05
-Senryu,Moved,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,0.0004586906598476433
-Senryu,Moved,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,-3.579320248140229e-05
-Senryu,Moved,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,-0.00019187242852906862
-Senryu,Moved,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.0009803601733461963
-Senryu,Moved,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,5.640530234893552e-05
-Senryu,Moved,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,0.00014240566640959874
-Senryu,Moved,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,-2.1300284350800093e-06
-Senryu,Moved,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,4.4257561038785274e-05
-Senryu,Moved,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,0.00023116558711728968
-Senryu,Moved,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,-0.00014057780526650546
-Senryu,Moved,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,-3.141433246418015e-05
-Senryu,Moved,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,-2.2915767753632618e-05
-Senryu,Moved,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.000292559933031162
-Senryu,Moved,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,0.00075586477253378
-Senryu,Moved,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,0.000244596316927459
-Senryu,Moved,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,3.604226743379448e-05
-Senryu,Moved,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,-1.3407583354720328e-05
-Senryu,Moved,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,-0.0002597371557396394
-Senryu,Moved,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.0003118751601629506
-Senryu,Moved,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,9.525720921951408e-06
-Senryu,Moved,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,2.9060279205242632e-05
-Senryu,Moved,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,7.520080592649378e-05
-Senryu,Moved,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,7.551137507890286e-05
-Senryu,Moved,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,4.544978991252234e-05
-Senryu,Moved,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,-7.016125493986968e-05
-Senryu,Moved,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.0004973965094957718
-Senryu,Moved,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,-5.283820319497724e-05
-Senryu,Moved,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.0006916290375397754
-Senryu,Moved,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.00011568174088445577
-Senryu,Moved,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,-0.0003742479745687029
-Senryu,Moved,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,-3.607938321660687e-05
-Senryu,Moved,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.0001310904859908778
-Senryu,Moved,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,-0.00013053770568888394
-Senryu,Moved,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,-6.342510047658348e-05
-Senryu,Moved,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.0002395804209513007
-Senryu,Moved,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,0.0003078491831217351
-Senryu,Moved,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,1.2640252454866239e-05
-Senryu,Moved,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,-5.920891861667819e-05
-Senryu,Moved,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.00019160854086068863
-Senryu,Moved,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,9.206816274347779e-05
-Senryu,Moved,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,-0.0004915701489121476
-Senryu,Moved,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,3.870804156536343e-05
-Senryu,Moved,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,8.452112351625483e-05
-Senryu,Moved,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.0006007747861605304
-Senryu,Moved,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,0.00017818757260595224
-Senryu,Moved,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,6.289620469469127e-05
-Senryu,Moved,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,-0.00010013075961649479
-Senryu,Moved,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,0.00014877799926686324
-Senryu,Moved,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.00016509079505714735
-Senryu,Moved,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,5.0450998118589495e-05
-Senryu,Moved,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,0.0001681087324679971
-Senryu,Moved,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,0.00011737456487604944
-Senryu,Moved,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,0.00028725152233368144
-Senryu,Moved,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,-7.086661652589728e-05
-Senryu,Moved,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,4.885331945411498e-05
-Senryu,Moved,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,0.00016523306892917783
-Senryu,Moved,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,-0.00017326631529523937
-Senryu,Moved,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,-2.3785769685909453e-05
-Senryu,Moved,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,0.0003591964716745825
-Senryu,Moved,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,9.054727176233133e-05
-Senryu,Moved,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,-4.2022057687780095e-05
-Senryu,Moved,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,-6.586992487484213e-05
-Senryu,Moved,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,-1.336366380235901e-06
-Senryu,Moved,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,0.0001397495127176976
-Senryu,Moved,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,8.237544063953828e-05
-Senryu,Moved,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,6.662085580179791e-05
-Senryu,Moved,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,4.2141379261916064e-05
-Senryu,Moved,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,8.189084977850191e-05
-Senryu,Moved,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,-2.3537271050982462e-05
-Senryu,Moved,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,0.0003495018990733087
-Senryu,Moved,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,0.000488968126186557
-Senryu,Moved,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,3.865554911758656e-05
-Senryu,Moved,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,-0.00020310011758292859
-Senryu,Moved,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,-8.471509628441875e-06
-Senryu,Moved,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,-0.00028011318924807415
-Senryu,Moved,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,-0.0001500380169600395
-Senryu,Moved,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,0.00014840567461017696
-Senryu,Moved,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,0.0001938565927667828
-Senryu,Moved,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,-7.678057731460944e-05
-Senryu,Moved,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,2.112315377951955e-05
-Senryu,Moved,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.00020761452646187524
-Senryu,Moved,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,5.446886705339603e-05
-Senryu,Moved,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,-0.0004245684132644371
+Senryu,Moved,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,9.850842051022273e-05
+Senryu,Moved,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,-0.0005553565543307366
+Senryu,Moved,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,0.00016360308212532465
+Senryu,Moved,"CL1_(-4, 0)_lower gamma",CL1,"(-4, 0)",lower gamma,LightGBM,0.0001304857369324517
+Senryu,Moved,"CL1_(-4, 0)_theta",CL1,"(-4, 0)",theta,LightGBM,0.0014646864498227149
+Senryu,Moved,"CL1_(0, 5)_alpha",CL1,"(0, 5)",alpha,LightGBM,0.0005892838292041712
+Senryu,Moved,"CL1_(0, 5)_beta",CL1,"(0, 5)",beta,LightGBM,0.00031381017204801123
+Senryu,Moved,"CL1_(0, 5)_delta",CL1,"(0, 5)",delta,LightGBM,0.0022752691225106573
+Senryu,Moved,"CL1_(0, 5)_lower gamma",CL1,"(0, 5)",lower gamma,LightGBM,3.4346170139870636e-05
+Senryu,Moved,"CL1_(0, 5)_theta",CL1,"(0, 5)",theta,LightGBM,-0.00043241215172993956
+Senryu,Moved,"CL1_(5, 10)_alpha",CL1,"(5, 10)",alpha,LightGBM,0.005243322438304237
+Senryu,Moved,"CL1_(5, 10)_beta",CL1,"(5, 10)",beta,LightGBM,4.402833948178123e-05
+Senryu,Moved,"CL1_(5, 10)_delta",CL1,"(5, 10)",delta,LightGBM,0.000399336642791071
+Senryu,Moved,"CL1_(5, 10)_lower gamma",CL1,"(5, 10)",lower gamma,LightGBM,0.00013878846441474468
+Senryu,Moved,"CL1_(5, 10)_theta",CL1,"(5, 10)",theta,LightGBM,0.00029325523978828826
+Senryu,Moved,"CL2_(-4, 0)_alpha",CL2,"(-4, 0)",alpha,LightGBM,0.0018364655643509495
+Senryu,Moved,"CL2_(-4, 0)_beta",CL2,"(-4, 0)",beta,LightGBM,-0.000566327929726054
+Senryu,Moved,"CL2_(-4, 0)_delta",CL2,"(-4, 0)",delta,LightGBM,-9.330743374557024e-05
+Senryu,Moved,"CL2_(-4, 0)_lower gamma",CL2,"(-4, 0)",lower gamma,LightGBM,0.00035308429474042535
+Senryu,Moved,"CL2_(-4, 0)_theta",CL2,"(-4, 0)",theta,LightGBM,0.0014332089825256533
+Senryu,Moved,"CL2_(0, 5)_alpha",CL2,"(0, 5)",alpha,LightGBM,0.003184764535915393
+Senryu,Moved,"CL2_(0, 5)_beta",CL2,"(0, 5)",beta,LightGBM,0.001643726484299164
+Senryu,Moved,"CL2_(0, 5)_delta",CL2,"(0, 5)",delta,LightGBM,0.00042427215831459646
+Senryu,Moved,"CL2_(0, 5)_lower gamma",CL2,"(0, 5)",lower gamma,LightGBM,0.00017140808452806677
+Senryu,Moved,"CL2_(0, 5)_theta",CL2,"(0, 5)",theta,LightGBM,-0.0008238431755965002
+Senryu,Moved,"CL2_(5, 10)_alpha",CL2,"(5, 10)",alpha,LightGBM,0.0006939826873932038
+Senryu,Moved,"CL2_(5, 10)_beta",CL2,"(5, 10)",beta,LightGBM,0.00019484310239465026
+Senryu,Moved,"CL2_(5, 10)_delta",CL2,"(5, 10)",delta,LightGBM,0.00016076037654778576
+Senryu,Moved,"CL2_(5, 10)_lower gamma",CL2,"(5, 10)",lower gamma,LightGBM,0.001362870992100143
+Senryu,Moved,"CL2_(5, 10)_theta",CL2,"(5, 10)",theta,LightGBM,-9.073915837910782e-05
+Senryu,Moved,"CL3_(-4, 0)_alpha",CL3,"(-4, 0)",alpha,LightGBM,0.0003238874997568702
+Senryu,Moved,"CL3_(-4, 0)_beta",CL3,"(-4, 0)",beta,LightGBM,-0.0008282045093074954
+Senryu,Moved,"CL3_(-4, 0)_delta",CL3,"(-4, 0)",delta,LightGBM,0.0007045891560502602
+Senryu,Moved,"CL3_(-4, 0)_lower gamma",CL3,"(-4, 0)",lower gamma,LightGBM,8.340701065645785e-05
+Senryu,Moved,"CL3_(-4, 0)_theta",CL3,"(-4, 0)",theta,LightGBM,0.006202865667762499
+Senryu,Moved,"CL3_(0, 5)_alpha",CL3,"(0, 5)",alpha,LightGBM,0.00044816935006896573
+Senryu,Moved,"CL3_(0, 5)_beta",CL3,"(0, 5)",beta,LightGBM,-0.0013360463937154188
+Senryu,Moved,"CL3_(0, 5)_delta",CL3,"(0, 5)",delta,LightGBM,-0.0002571055197024215
+Senryu,Moved,"CL3_(0, 5)_lower gamma",CL3,"(0, 5)",lower gamma,LightGBM,0.0005657558298257508
+Senryu,Moved,"CL3_(0, 5)_theta",CL3,"(0, 5)",theta,LightGBM,7.441051243940548e-06
+Senryu,Moved,"CL3_(5, 10)_alpha",CL3,"(5, 10)",alpha,LightGBM,0.0003619363734270544
+Senryu,Moved,"CL3_(5, 10)_beta",CL3,"(5, 10)",beta,LightGBM,0.0016464981954033258
+Senryu,Moved,"CL3_(5, 10)_delta",CL3,"(5, 10)",delta,LightGBM,0.00042013080389541796
+Senryu,Moved,"CL3_(5, 10)_lower gamma",CL3,"(5, 10)",lower gamma,LightGBM,-7.95751035154939e-05
+Senryu,Moved,"CL3_(5, 10)_theta",CL3,"(5, 10)",theta,LightGBM,2.218739725423287e-06
+Senryu,Moved,"CL4_(-4, 0)_alpha",CL4,"(-4, 0)",alpha,LightGBM,0.0003977028129172282
+Senryu,Moved,"CL4_(-4, 0)_beta",CL4,"(-4, 0)",beta,LightGBM,0.0004513709033133372
+Senryu,Moved,"CL4_(-4, 0)_delta",CL4,"(-4, 0)",delta,LightGBM,-0.001705432106956126
+Senryu,Moved,"CL4_(-4, 0)_lower gamma",CL4,"(-4, 0)",lower gamma,LightGBM,1.86674988349933e-05
+Senryu,Moved,"CL4_(-4, 0)_theta",CL4,"(-4, 0)",theta,LightGBM,0.00030136397320601097
+Senryu,Moved,"CL4_(0, 5)_alpha",CL4,"(0, 5)",alpha,LightGBM,0.002520549126933511
+Senryu,Moved,"CL4_(0, 5)_beta",CL4,"(0, 5)",beta,LightGBM,0.0011372152340072069
+Senryu,Moved,"CL4_(0, 5)_delta",CL4,"(0, 5)",delta,LightGBM,0.0004134773612253338
+Senryu,Moved,"CL4_(0, 5)_lower gamma",CL4,"(0, 5)",lower gamma,LightGBM,-0.00042339633874894375
+Senryu,Moved,"CL4_(0, 5)_theta",CL4,"(0, 5)",theta,LightGBM,0.0006690577004202804
+Senryu,Moved,"CL4_(5, 10)_alpha",CL4,"(5, 10)",alpha,LightGBM,0.0003422382568871717
+Senryu,Moved,"CL4_(5, 10)_beta",CL4,"(5, 10)",beta,LightGBM,9.083659264878908e-05
+Senryu,Moved,"CL4_(5, 10)_delta",CL4,"(5, 10)",delta,LightGBM,0.0005788691554757548
+Senryu,Moved,"CL4_(5, 10)_lower gamma",CL4,"(5, 10)",lower gamma,LightGBM,0.0007955564312911192
+Senryu,Moved,"CL4_(5, 10)_theta",CL4,"(5, 10)",theta,LightGBM,0.0010806982335239666
+Senryu,Moved,"CL5_(-4, 0)_alpha",CL5,"(-4, 0)",alpha,LightGBM,-7.146315489057644e-05
+Senryu,Moved,"CL5_(-4, 0)_beta",CL5,"(-4, 0)",beta,LightGBM,0.00015232465518300481
+Senryu,Moved,"CL5_(-4, 0)_delta",CL5,"(-4, 0)",delta,LightGBM,0.0007596517347251055
+Senryu,Moved,"CL5_(-4, 0)_lower gamma",CL5,"(-4, 0)",lower gamma,LightGBM,-0.0010626002596085856
+Senryu,Moved,"CL5_(-4, 0)_theta",CL5,"(-4, 0)",theta,LightGBM,-0.0002631730024828139
+Senryu,Moved,"CL5_(0, 5)_alpha",CL5,"(0, 5)",alpha,LightGBM,0.000908189845739896
+Senryu,Moved,"CL5_(0, 5)_beta",CL5,"(0, 5)",beta,LightGBM,0.0002098168730352403
+Senryu,Moved,"CL5_(0, 5)_delta",CL5,"(0, 5)",delta,LightGBM,0.0001473865601007104
+Senryu,Moved,"CL5_(0, 5)_lower gamma",CL5,"(0, 5)",lower gamma,LightGBM,-5.627992128933507e-05
+Senryu,Moved,"CL5_(0, 5)_theta",CL5,"(0, 5)",theta,LightGBM,0.00021407765059626996
+Senryu,Moved,"CL5_(5, 10)_alpha",CL5,"(5, 10)",alpha,LightGBM,0.00037075142005277935
+Senryu,Moved,"CL5_(5, 10)_beta",CL5,"(5, 10)",beta,LightGBM,0.0005432690643811591
+Senryu,Moved,"CL5_(5, 10)_delta",CL5,"(5, 10)",delta,LightGBM,0.00012156689406935086
+Senryu,Moved,"CL5_(5, 10)_lower gamma",CL5,"(5, 10)",lower gamma,LightGBM,0.0006138991061788554
+Senryu,Moved,"CL5_(5, 10)_theta",CL5,"(5, 10)",theta,LightGBM,1.3404750685877598e-05
+Senryu,Moved,"CL6_(-4, 0)_alpha",CL6,"(-4, 0)",alpha,LightGBM,-0.00010208058614527882
+Senryu,Moved,"CL6_(-4, 0)_beta",CL6,"(-4, 0)",beta,LightGBM,0.0015733543506168187
+Senryu,Moved,"CL6_(-4, 0)_delta",CL6,"(-4, 0)",delta,LightGBM,0.002122531099109697
+Senryu,Moved,"CL6_(-4, 0)_lower gamma",CL6,"(-4, 0)",lower gamma,LightGBM,0.00012530121519995844
+Senryu,Moved,"CL6_(-4, 0)_theta",CL6,"(-4, 0)",theta,LightGBM,-0.0008435677049676947
+Senryu,Moved,"CL6_(0, 5)_alpha",CL6,"(0, 5)",alpha,LightGBM,-0.00017432429456964424
+Senryu,Moved,"CL6_(0, 5)_beta",CL6,"(0, 5)",beta,LightGBM,-0.0010306052779291918
+Senryu,Moved,"CL6_(0, 5)_delta",CL6,"(0, 5)",delta,LightGBM,-0.0001223500283494688
+Senryu,Moved,"CL6_(0, 5)_lower gamma",CL6,"(0, 5)",lower gamma,LightGBM,0.00032312200914759415
+Senryu,Moved,"CL6_(0, 5)_theta",CL6,"(0, 5)",theta,LightGBM,0.001536973068995213
+Senryu,Moved,"CL6_(5, 10)_alpha",CL6,"(5, 10)",alpha,LightGBM,-0.0002231954373428504
+Senryu,Moved,"CL6_(5, 10)_beta",CL6,"(5, 10)",beta,LightGBM,-2.0938674659774514e-05
+Senryu,Moved,"CL6_(5, 10)_delta",CL6,"(5, 10)",delta,LightGBM,0.0008406940420830898
+Senryu,Moved,"CL6_(5, 10)_lower gamma",CL6,"(5, 10)",lower gamma,LightGBM,0.00028963753965703854
+Senryu,Moved,"CL6_(5, 10)_theta",CL6,"(5, 10)",theta,LightGBM,-0.0016710754213063676
 Senryu,Originality,"CL1_(-4, 0)_alpha",CL1,"(-4, 0)",alpha,LightGBM,0.0011795139408686372
 Senryu,Originality,"CL1_(-4, 0)_beta",CL1,"(-4, 0)",beta,LightGBM,0.002807862743313782
 Senryu,Originality,"CL1_(-4, 0)_delta",CL1,"(-4, 0)",delta,LightGBM,9.28392458608332e-05
